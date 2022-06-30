@@ -424,7 +424,7 @@
 	"update_time": 1651600790154,
 	"url": "https://yingfeng.me/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.lanka.cn/feed/",
 	"id": "04a6aa61-ca74-4714-bec9-176874c84dfe",
@@ -435,13 +435,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "美好科技生活方式",
-	"sitemap": "",
+	"sitemap": "https://www.lanka.cn/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "应用推荐", "回忆", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.lanka.cn/"
 }, {
-	"arch": "",
+	"arch": "Movable Type",
 	"enabled": true,
 	"feed": "https://www.ruanyifeng.com/blog/atom.xml",
 	"id": "330d6462-4469-4638-aa50-a5d64fd2e11a",
