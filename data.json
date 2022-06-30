@@ -220,7 +220,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.lshongg.cn/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "https://www.liangduiban.com/feed.php",
 	"id": "66364a39-a434-4a97-96da-1ab69fff68c3",
@@ -237,7 +237,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.liangduiban.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://linsanhu.com/feed/",
 	"id": "9e8f45b7-7401-4394-bbda-45e48119e4d9",
@@ -271,7 +271,7 @@
 	"update_time": 1651600790154,
 	"url": "https://lsbackyard.cn/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.yayu.net/feed",
 	"id": "73baf936-7f3e-443d-b363-f8af3da353b8",
@@ -282,7 +282,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "茶余饭后，闲情雅致",
-	"sitemap": "",
+	"sitemap": "https://www.yayu.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "摄影"],
 	"update_time": 1651600790154,
@@ -305,7 +305,7 @@
 	"update_time": 1651600790154,
 	"url": "https://fongsoul.com/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "https://www.xiangshitan.com/feed.php",
 	"id": "40c4bd85-888c-4780-9705-1a9c47d40970",
@@ -339,7 +339,7 @@
 	"update_time": 1651600790154,
 	"url": "https://2cat.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.coolblood.cn/?feed=rss2",
 	"id": "89496ff1-d8e9-4981-b36b-0314d336fe14",
@@ -356,7 +356,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.coolblood.cn/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://pwsz.com/feed",
 	"id": "e284dd82-83b8-4aee-a0ea-1ca17b63f7c7",
@@ -366,8 +366,8 @@
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "",
-	"sign": "",
-	"sitemap": "",
+	"sign": "吴侬软语、小桥流水，最美在苏州。",
+	"sitemap": "https://pwsz.com/sitemap.xml",
 	"status": "ConnectionError",
 	"tags": ["生活", "记事"],
 	"update_time": 1651600790154,
@@ -390,7 +390,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.auiou.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.smbinn.com/feed",
 	"id": "73953c57-01e7-4686-827c-c8dee9b28ad1",
@@ -400,14 +400,14 @@
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "",
-	"sign": "",
-	"sitemap": "",
+	"sign": "专注科技生活方式",
+	"sitemap": "https://www.smbinn.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["数码"],
 	"update_time": 1651600790154,
 	"url": "https://www.smbinn.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://yingfeng.me/feed",
 	"id": "f227b636-dd62-4c5b-a9e7-3e580003ef11",
@@ -418,7 +418,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "心明若鏡，不將不迎",
-	"sitemap": "",
+	"sitemap": "https://yingfeng.me/sitemap.xml",
 	"status": "OK",
 	"tags": ["数码", "生活", "杂谈"],
 	"update_time": 1651600790154,
