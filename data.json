@@ -1,7 +1,7 @@
 [{
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
-	"feed": "https://juantu.cn/feed/",
+	"feed": "https://juantu.cn/feed",
 	"id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
 	"idx": 1,
 	"join_time": 1651600790154,
@@ -16,7 +16,7 @@
 	"update_time": 1656416524808,
 	"url": "https://juantu.cn/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "",
 	"id": "0c0608d7-1003-444f-b581-298f401b54cb",
@@ -33,7 +33,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.sgfox.cc/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://rainss.cn/feed/",
 	"id": "7372d396-72b1-459a-98df-22eb0899fb5c",
@@ -50,7 +50,7 @@
 	"update_time": 1656416629851,
 	"url": "https://rainss.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://tunanshan.com/feed/",
 	"id": "601c22e3-0aa2-4bb2-83c4-3c9cd6353314",
@@ -69,7 +69,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "http://www.blog.yuanxiblog.cn/rss.php",
+	"feed": "",
 	"id": "634fe504-56dd-4b3f-bfb3-16f2ac59ceb1",
 	"idx": 5,
 	"join_time": 1651600790154,
@@ -84,7 +84,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.blog.yuanxiblog.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.bytecho.net/feed/",
 	"id": "d2d8f3d5-2433-4d06-9151-b8cb3b9962d5",
@@ -95,15 +95,15 @@
 	"repeat": false,
 	"saveweb_id": "933",
 	"sign": "丰富想象力，激发创造力。",
-	"sitemap": "",
+	"sitemap": "https://www.bytecho.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["java", "c/c++"],
 	"update_time": 1656416729947,
 	"url": "https://www.bytecho.net/"
 }, {
-	"arch": "",
+	"arch": "Halo",
 	"enabled": true,
-	"feed": "https://ryanc.cc/feed",
+	"feed": "https://ryanc.cc/atom.xml",
 	"id": "b12497a8-3e1d-4513-829a-cb76bee3e19a",
 	"idx": 7,
 	"join_time": 1651600790154,
@@ -112,7 +112,7 @@
 	"repeat": false,
 	"saveweb_id": "1385",
 	"sign": "Hello Halo",
-	"sitemap": "",
+	"sitemap": "https://ryanc.cc/sitemap.xml",
 	"status": "OK",
 	"tags": ["halo"],
 	"update_time": 1656417040336,
@@ -135,7 +135,7 @@
 	"update_time": 1656417363322,
 	"url": "http://lao.si/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://xiannian.top/feed/",
 	"id": "55fab52a-9247-4280-bdf6-11458bf7c2d7",
