@@ -1,7 +1,7 @@
 [{
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
-	"feed": "https://juantu.cn/feed/",
+	"feed": "https://juantu.cn/feed",
 	"id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
 	"idx": 1,
 	"join_time": 1651600790154,
@@ -16,7 +16,7 @@
 	"update_time": 1656416524808,
 	"url": "https://juantu.cn/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "",
 	"id": "0c0608d7-1003-444f-b581-298f401b54cb",
@@ -33,7 +33,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.sgfox.cc/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://rainss.cn/feed/",
 	"id": "7372d396-72b1-459a-98df-22eb0899fb5c",
@@ -50,7 +50,7 @@
 	"update_time": 1656416629851,
 	"url": "https://rainss.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://tunanshan.com/feed/",
 	"id": "601c22e3-0aa2-4bb2-83c4-3c9cd6353314",
@@ -69,7 +69,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "http://www.blog.yuanxiblog.cn/rss.php",
+	"feed": "",
 	"id": "634fe504-56dd-4b3f-bfb3-16f2ac59ceb1",
 	"idx": 5,
 	"join_time": 1651600790154,
@@ -84,7 +84,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.blog.yuanxiblog.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.bytecho.net/feed/",
 	"id": "d2d8f3d5-2433-4d06-9151-b8cb3b9962d5",
@@ -95,15 +95,15 @@
 	"repeat": false,
 	"saveweb_id": "933",
 	"sign": "丰富想象力，激发创造力。",
-	"sitemap": "",
+	"sitemap": "https://www.bytecho.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["java", "c/c++"],
 	"update_time": 1656416729947,
 	"url": "https://www.bytecho.net/"
 }, {
-	"arch": "",
+	"arch": "Halo",
 	"enabled": true,
-	"feed": "https://ryanc.cc/feed",
+	"feed": "https://ryanc.cc/atom.xml",
 	"id": "b12497a8-3e1d-4513-829a-cb76bee3e19a",
 	"idx": 7,
 	"join_time": 1651600790154,
@@ -112,7 +112,7 @@
 	"repeat": false,
 	"saveweb_id": "1385",
 	"sign": "Hello Halo",
-	"sitemap": "",
+	"sitemap": "https://ryanc.cc/sitemap.xml",
 	"status": "OK",
 	"tags": ["halo"],
 	"update_time": 1656417040336,
@@ -135,7 +135,7 @@
 	"update_time": 1656417363322,
 	"url": "http://lao.si/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://xiannian.top/feed/",
 	"id": "55fab52a-9247-4280-bdf6-11458bf7c2d7",
@@ -152,17 +152,17 @@
 	"update_time": 1656417408828,
 	"url": "https://xiannian.top/"
 }, {
-	"arch": "",
+	"arch": "Ghost",
 	"enabled": true,
 	"feed": "http://1900.live/rss/",
 	"id": "9e95fbd2-7af4-4dbf-8626-5267e5b6e26b",
 	"idx": 10,
 	"join_time": 1651600790154,
-	"name": "我道1900的博客",
+	"name": "博客",
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "1388",
-	"sign": "你好世界，请善待所有内心善良的人",
+	"sign": "闲言俗语，杂文杂记，图个自在",
 	"sitemap": "",
 	"status": "OK",
 	"tags": ["生活", "节气"],
@@ -179,8 +179,8 @@
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "1107",
-	"sign": "This is my zine. I write about shit I care about.",
-	"sitemap": "",
+	"sign": "伪极简主义、 面向Google 编程、股市萌新、伪奢侈品爱好者。",
+	"sitemap": "https://fatesinger.com/wp-sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈"],
 	"update_time": 1656417544075,
@@ -220,7 +220,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.lshongg.cn/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "https://www.liangduiban.com/feed.php",
 	"id": "66364a39-a434-4a97-96da-1ab69fff68c3",
@@ -237,7 +237,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.liangduiban.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://linsanhu.com/feed/",
 	"id": "9e8f45b7-7401-4394-bbda-45e48119e4d9",
@@ -271,7 +271,7 @@
 	"update_time": 1651600790154,
 	"url": "https://lsbackyard.cn/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.yayu.net/feed",
 	"id": "73baf936-7f3e-443d-b363-f8af3da353b8",
@@ -282,7 +282,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "茶余饭后，闲情雅致",
-	"sitemap": "",
+	"sitemap": "https://www.yayu.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "摄影"],
 	"update_time": 1651600790154,
@@ -305,7 +305,7 @@
 	"update_time": 1651600790154,
 	"url": "https://fongsoul.com/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "https://www.xiangshitan.com/feed.php",
 	"id": "40c4bd85-888c-4780-9705-1a9c47d40970",
@@ -339,7 +339,7 @@
 	"update_time": 1651600790154,
 	"url": "https://2cat.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.coolblood.cn/?feed=rss2",
 	"id": "89496ff1-d8e9-4981-b36b-0314d336fe14",
@@ -356,7 +356,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.coolblood.cn/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://pwsz.com/feed",
 	"id": "e284dd82-83b8-4aee-a0ea-1ca17b63f7c7",
@@ -366,8 +366,8 @@
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "",
-	"sign": "",
-	"sitemap": "",
+	"sign": "吴侬软语、小桥流水，最美在苏州。",
+	"sitemap": "https://pwsz.com/sitemap.xml",
 	"status": "ConnectionError",
 	"tags": ["生活", "记事"],
 	"update_time": 1651600790154,
@@ -390,7 +390,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.auiou.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.smbinn.com/feed",
 	"id": "73953c57-01e7-4686-827c-c8dee9b28ad1",
@@ -400,14 +400,14 @@
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "",
-	"sign": "",
-	"sitemap": "",
+	"sign": "专注科技生活方式",
+	"sitemap": "https://www.smbinn.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["数码"],
 	"update_time": 1651600790154,
 	"url": "https://www.smbinn.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://yingfeng.me/feed",
 	"id": "f227b636-dd62-4c5b-a9e7-3e580003ef11",
@@ -418,7 +418,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "心明若鏡，不將不迎",
-	"sitemap": "",
+	"sitemap": "https://yingfeng.me/sitemap.xml",
 	"status": "OK",
 	"tags": ["数码", "生活", "杂谈"],
 	"update_time": 1651600790154,
