@@ -1852,7 +1852,7 @@
 	"update_time": 1651600790154,
 	"url": "https://lms.im/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://zww.me/feed",
 	"id": "72806059-3cb1-4e3d-9601-8649a933f255",
@@ -1863,13 +1863,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "因为喜欢所以折腾...无折腾不铁血！",
-	"sitemap": "",
+	"sitemap": "https://zww.me/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈", "记事", "记录", "数码"],
 	"update_time": 1651600790154,
 	"url": "https://zww.me/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.ithmz.com/feed",
 	"id": "d124fdb2-49b6-497b-b3e6-0d037feb580f",
@@ -1880,13 +1880,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "有事就做事，没事叼根烟",
-	"sitemap": "",
+	"sitemap": "https://www.ithmz.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "记事", "记录"],
 	"update_time": 1651600790154,
 	"url": "https://www.ithmz.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://huiris.com/feed/",
 	"id": "6cfa7688-10a5-4ada-9801-5bb50c542c59",
@@ -1897,7 +1897,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://huiris.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["文学", "阅读", "生活", "杂谈"],
 	"update_time": 1651600790154,
