@@ -12,7 +12,7 @@
 	"sign": "现只为做成一件事",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活"],
+	"tags": ["综合","Python","科技","杂录"],
 	"update_time": 1656416524808,
 	"url": "https://juantu.cn/"
 }, {
@@ -29,7 +29,7 @@
 	"sign": "less is more",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["综合","C/C++"],
+	"tags": ["综合","代码","杂录"],
 	"update_time": 1651600790154,
 	"url": "https://www.sgfox.cc/"
 }, {
@@ -46,7 +46,7 @@
 	"sign": "聆听雨落的声音,俯看凋零的落叶.伫细雨之中,感雨落之殇",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["linux", "php", "java", "python", "android"],
+	"tags": ["技术","Linux","软件","教程"],
 	"update_time": 1656416629851,
 	"url": "https://rainss.cn/"
 }, {
@@ -63,11 +63,11 @@
 	"sign": "从前有座山，山里有座庙，庙里有个白胡子老道",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈"],
+	"tags": ["生活","杂谈","记录"],
 	"update_time": 1656416667136,
 	"url": "https://tunanshan.com/"
 }, {
-	"arch": "",
+	"arch": "Emlog",
 	"enabled": true,
 	"feed": "",
 	"id": "634fe504-56dd-4b3f-bfb3-16f2ac59ceb1",
@@ -80,7 +80,7 @@
 	"sign": "技术与资源分享博客",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["php"],
+	"tags": ["技术","PHP"],
 	"update_time": 1651600790154,
 	"url": "http://www.blog.yuanxiblog.cn/"
 }, {
@@ -97,7 +97,7 @@
 	"sign": "丰富想象力，激发创造力。",
 	"sitemap": "https://www.bytecho.net/sitemap.xml",
 	"status": "OK",
-	"tags": ["java", "c/c++"],
+	"tags": ["技术","Java","C/C++","学习","记录"],
 	"update_time": 1656416729947,
 	"url": "https://www.bytecho.net/"
 }, {
@@ -114,7 +114,7 @@
 	"sign": "Hello Halo",
 	"sitemap": "https://ryanc.cc/sitemap.xml",
 	"status": "OK",
-	"tags": ["halo"],
+	"tags": ["技术","Halo"],
 	"update_time": 1656417040336,
 	"url": "https://ryanc.cc/"
 }, {
@@ -131,7 +131,7 @@
 	"sign": "记录琐事和并不多的思考",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈"],
+	"tags": ["生活","随笔","杂录"],
 	"update_time": 1656417363322,
 	"url": "http://lao.si/"
 }, {
@@ -148,7 +148,7 @@
 	"sign": "一小我的记载,一群人的狂欢",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈"],
+	"tags": ["生活", "杂谈","记录"],
 	"update_time": 1656417408828,
 	"url": "https://xiannian.top/"
 }, {
