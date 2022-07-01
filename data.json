@@ -27720,7 +27720,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "枪在手，跟我走，前端路上不回头",
-	"sitemap": "",
+	"sitemap": "https://refined-x.com/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654393968627,
@@ -27737,7 +27737,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "在读计算机系研究生/博士",
-	"sitemap": "",
+	"sitemap": "https://allanware.github.io/zh/sitemap.xml",
 	"status": "unknown",
 	"tags": ["生活"],
 	"update_time": 1656472600488,
@@ -27760,7 +27760,7 @@
 	"update_time": 1654394111562,
 	"url": "https://www.dreamofice.cn"
 }, {
-	"arch": "hexo",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "https://www.seeseeme.cn/atom.xml",
 	"id": "55588cea-a602-4196-9a6b-dc6bfb991ecb",
@@ -27777,7 +27777,7 @@
 	"update_time": 1654875688358,
 	"url": "https://www.seeseeme.cn/"
 }, {
-	"arch": "hexo",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "",
 	"id": "c6c18c60-a6da-4c5d-917f-b0ec3005598a",
@@ -27788,11 +27788,11 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://garyblog.vercel.app/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654590969674,
-	"url": "https://garyblog.vercel.app"
+	"url": "https://garyblog.vercel.app/"
 }, {
 	"arch": "Hexo",
 	"enabled": true,
@@ -27856,7 +27856,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://jieran233.github.io/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654933314568,
@@ -27873,7 +27873,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://dev-coco.github.io/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654933529471,
@@ -27896,7 +27896,7 @@
 	"update_time": 1655605117566,
 	"url": "https://www.geeklab.work/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "https://yuictwo.github.io/atom.xml",
 	"id": "7291375b-b436-4621-8c8d-222ca17f872f",
@@ -27924,7 +27924,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "不要恐慌 | Don't Panic",
-	"sitemap": "",
+	"sitemap": "https://lonelyuan.github.io/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1655605492200,
@@ -28060,7 +28060,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://blog.yidaozhan.top/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1656316310123,
@@ -28068,7 +28068,7 @@
 }, {
 	"arch": "Halo",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://www.shibuyu.fun/atom.xml",
 	"id": "53fad682-6156-4600-8b13-00d76cf7420c",
 	"idx": 1655,
 	"join_time": 1656463550425,
@@ -28077,7 +28077,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "整理记录自己的测试学习历程",
-	"sitemap": "",
+	"sitemap": "https://www.shibuyu.fun/sitemap.xml",
 	"status": "unknown",
 	"tags": ["学习", "python"],
 	"update_time": 1656472562391,
