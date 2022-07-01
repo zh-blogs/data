@@ -27452,7 +27452,7 @@
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1653977461242,
-	"url": "https://www.nonedata.com"
+	"url": "https://www.nonedata.com/"
 }, {
 	"arch": "",
 	"enabled": true,
@@ -27471,7 +27471,7 @@
 	"update_time": 1653977473340,
 	"url": "http://www.informal.top/"
 }, {
-	"arch": "hexo",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "",
 	"id": "020f4ed0-6d71-48df-aa5b-4938ae0446fd",
@@ -27499,11 +27499,11 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "一名初中生的小博客",
-	"sitemap": "",
+	"sitemap": "https://arcitcgn.cn/sitemap.xml",
 	"status": "unknown",
 	"tags": ["typecho", "博客", "网站推荐"],
 	"update_time": 1654328518728,
-	"url": "https://arcitcgn.cn"
+	"url": "https://arcitcgn.cn/"
 }, {
 	"arch": "WordPress",
 	"enabled": true,
@@ -27520,11 +27520,11 @@
 	"status": "unknown",
 	"tags": ["杂谈", "生活"],
 	"update_time": 1654328551331,
-	"url": "https://joojen.com"
+	"url": "https://joojen.com/"
 }, {
-	"arch": "",
+	"arch": "VuePress",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://blog.mojy.xyz/rss.xml",
 	"id": "fb5bd71c-cd0c-4b01-a277-e5942960f057",
 	"idx": 1623,
 	"join_time": 1654384954716,
@@ -27533,13 +27533,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://blog.mojy.xyz/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654384954716,
 	"url": "https://blog.mojy.xyz/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://blog.awu.cool/feed/",
 	"id": "8037013b-7834-4edd-a145-da723879370d",
@@ -27575,7 +27575,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://www.data-era.cn/feed",
 	"id": "632eadba-c159-4c30-beea-e5ebeef81265",
 	"idx": 1626,
 	"join_time": 1654385599610,
@@ -27584,13 +27584,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://www.data-era.cn/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654385599610,
 	"url": "https://www.data-era.cn/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "https://www.panshenlian.com/atom.xml",
 	"id": "2c45ba96-e563-4e79-bd16-28e3f3e75c22",
@@ -27618,7 +27618,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://kifuan.top/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654385832639,
@@ -27635,7 +27635,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://blog.lsilencej.top/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654385943151,
@@ -27652,7 +27652,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://bqyang.top/sitemap.xml",
 	"status": "unknown",
 	"tags": [],
 	"update_time": 1654393550610,
