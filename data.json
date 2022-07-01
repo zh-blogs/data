@@ -2481,7 +2481,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.54yt.net/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "https://www.fghrsh.net/feed.php",
 	"id": "97927f3f-dbf2-487b-a21f-f98d8d20949a",
@@ -2492,13 +2492,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。",
-	"sitemap": "",
+	"sitemap": "https://www.fghrsh.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["html", "测评", "开箱"],
 	"update_time": 1651600790154,
 	"url": "https://www.fghrsh.net/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://get233.com/feed/",
 	"id": "3418fa21-e4f8-4a7f-9144-984fe71a5928",
@@ -2509,7 +2509,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "今天你喝够8杯水了没",
-	"sitemap": "",
+	"sitemap": "https://get233.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["typecho", "测评", "宠物"],
 	"update_time": 1651600790154,
@@ -2532,7 +2532,7 @@
 	"update_time": 1651600790154,
 	"url": "https://kotori.love/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "https://julydate-1251438221.file.myqcloud.com/atom.xml",
 	"id": "8f2b4695-b256-421d-b5ff-d52d607918c8",
