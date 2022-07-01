@@ -469,13 +469,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "个人向笔记性质技术分享，共产主义开源编程",
-	"sitemap": "",
+	"sitemap": "https://www.ohyee.cc/sitemap.xml",
 	"status": "OK",
 	"tags": ["go", "python", "js", "linux", "leetcode", "算法", "杂谈", "c/c++", "git", "容器", "开发"],
 	"update_time": 1651681858608,
 	"url": "https://www.ohyee.cc/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "",
 	"id": "bca45c83-d1b4-4bb6-8ae9-1ac0c94ecd3f",
@@ -492,7 +492,7 @@
 	"update_time": 1651600790154,
 	"url": "https://xsui.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://qifu.me/feed/",
 	"id": "ebad31d1-65bb-478e-a6f9-b51f561085e7",
@@ -503,13 +503,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "寥寥数语，皆我心之所慨……",
-	"sitemap": "",
+	"sitemap": "https://qifu.me/wp-sitemap-posts-post-1.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈", "回忆"],
 	"update_time": 1651600790154,
 	"url": "https://qifu.me/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://yunfanch.com/feed/",
 	"id": "4735f8e8-97bc-42c6-a8f9-3864142045bf",
@@ -520,13 +520,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "一切过往，皆为序章。直挂云帆，乘风破浪。",
-	"sitemap": "",
+	"sitemap": "https://www.yunfanch.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["js", "生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://yunfanch.com/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "https://dusays.com/atom.xml",
 	"id": "3db2a34e-e0cc-4151-8f88-9b1d0d54517c",
@@ -543,7 +543,7 @@
 	"update_time": 1651600790154,
 	"url": "https://dusays.com/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "",
 	"id": "d6372593-8a82-461b-9b4b-ed5af5d086b7",
@@ -560,7 +560,7 @@
 	"update_time": 1651600790154,
 	"url": "https://mubaix.github.io/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://eqblog.com/feed",
 	"id": "d245f65d-fc29-4de3-a630-5954cd78b803",
@@ -571,7 +571,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "Just another WordPress site",
-	"sitemap": "",
+	"sitemap": "https://eqblog.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["python", "爬虫", "wordpress", "apache", "c/c++", "mysql", "前端", "nginx"],
 	"update_time": 1651600790154,
@@ -611,7 +611,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.lianglong.org/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.savouer.com/feed/",
 	"id": "ee5a6163-9854-4cae-a585-b7348ff08ece",
@@ -622,13 +622,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "记录生活感悟、及用经济学视角解读社会",
-	"sitemap": "",
+	"sitemap": "https://www.savouer.com/sitemap.xml",
 	"status": "ReadTimeout",
 	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.savouer.com/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "https://wuse.ink/feed.php",
 	"id": "909c3e13-1bbc-4eb2-8e1a-78da21e6d132",
@@ -645,7 +645,7 @@
 	"update_time": 1651600790154,
 	"url": "https://wuse.ink/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://feng.pub/feed",
 	"id": "91677b36-ada8-4467-9a90-00b13179d0bc",
@@ -656,13 +656,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "沧海一粟，微亮渺小一只虫。",
-	"sitemap": "",
+	"sitemap": "https://feng.pub/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://feng.pub/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.duanxiansen.com/feed",
 	"id": "28e7d16c-3749-46e8-bdf6-7ea55b23e79f",
@@ -673,13 +673,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "迄今所有人生都大写着失败,但并不妨碍我继续向前！",
-	"sitemap": "",
+	"sitemap": "https://www.duanxiansen.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "情感"],
 	"update_time": 1651600790154,
 	"url": "https://www.duanxiansen.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.vian.top/feed/",
 	"id": "4b4b04aa-13a0-4a42-9735-401ab675f9c4",
@@ -696,7 +696,7 @@
 	"update_time": 1651600790154,
 	"url": "https://vian.top/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://oneinf.com/feed",
 	"id": "acd6d281-f561-441f-b302-50287625bf47",
@@ -707,7 +707,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "一个金融行业互联网人的记录与分享",
-	"sitemap": "",
+	"sitemap": "https://oneinf.com/wp-sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "摄影", "金融"],
 	"update_time": 1651600790154,
@@ -3894,7 +3894,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://www.rowkey.cn/atom.xml",
 	"id": "4071fa42-d333-4136-a009-0da444cc2c14",
 	"idx": 231,
 	"join_time": 1651600790154,
@@ -3911,7 +3911,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://blog.lui8.cn/feed.xml",
 	"id": "edaeec0a-3263-4946-bfef-f0ac23a768b1",
 	"idx": 232,
 	"join_time": 1651600790154,
@@ -3943,9 +3943,9 @@
 	"update_time": 1651600790154,
 	"url": "https://arminli.com/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://lvdawei.com/atom.xml",
 	"id": "ed51acbd-ebf6-44f7-865d-511f28644c46",
 	"idx": 234,
 	"join_time": 1651600790154,
@@ -3960,7 +3960,7 @@
 	"update_time": 1651600790154,
 	"url": "https://lvdawei.com/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "",
 	"id": "e8ec9df4-8b8f-416d-8b67-b12b1e854563",
@@ -3971,7 +3971,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "一只程序猿，一只diss带码的程序猿",
-	"sitemap": "",
+	"sitemap": "https://dumplingbao.github.io/atom.xml",
 	"status": "OK",
 	"tags": [],
 	"update_time": 1651600790154,
@@ -3979,7 +3979,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://chai2010.cn/index.xml",
 	"id": "cc42f6ef-92c3-45f9-8188-6218e2236716",
 	"idx": 236,
 	"join_time": 1651600790154,
@@ -4011,9 +4011,9 @@
 	"update_time": 1651600790154,
 	"url": "https://www.cnfeat.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://www.bysb.net/feed",
 	"id": "1a23335e-cb98-405d-8341-93140ff139ea",
 	"idx": 238,
 	"join_time": 1651600790154,
@@ -4045,9 +4045,9 @@
 	"update_time": 1651600790154,
 	"url": "https://timegg.top/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://sknplz.xyz/atom.xml",
 	"id": "8a599af7-1ca2-4912-8fe0-4b325b9da0d6",
 	"idx": 240,
 	"join_time": 1651600790154,
@@ -4064,7 +4064,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://owomoe.net/feed/index.xml",
 	"id": "c7fbd975-8bff-4697-b2ce-5f4aa98a39f1",
 	"idx": 241,
 	"join_time": 1651600790154,
@@ -4079,7 +4079,7 @@
 	"update_time": 1651600790154,
 	"url": "https://owomoe.net/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "",
 	"id": "ab310fc0-9f2f-46b4-9256-d7da4e1c6e3a",
@@ -4096,9 +4096,9 @@
 	"update_time": 1651600790154,
 	"url": "https://www.yuzhang.wang/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://leiblog.wang/atom.xml",
 	"id": "27c02071-fbe0-452d-ace5-d42caf2d196b",
 	"idx": 243,
 	"join_time": 1651600790154,
@@ -4130,9 +4130,9 @@
 	"update_time": 1651600790154,
 	"url": "https://davincievans.top/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://ffis.me/feed/",
 	"id": "5c1142d8-6a30-4d6a-83c2-e039007135de",
 	"idx": 245,
 	"join_time": 1651600790154,
@@ -4164,9 +4164,9 @@
 	"update_time": 1651600790154,
 	"url": "https://liyin.date/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
-	"feed": "",
+	"feed": "http://www.chenshake.com/feed/",
 	"id": "d367df0f-e9b5-44ea-9285-efefc21de023",
 	"idx": 247,
 	"join_time": 1651600790154,
@@ -4183,7 +4183,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "",
+	"feed": "http://gigix.thoughtworkers.org/atom.xml",
 	"id": "8b32825c-8207-49ad-a716-97798905f1c0",
 	"idx": 248,
 	"join_time": 1651600790154,
@@ -4200,7 +4200,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://feeds.feedburner.com/TheWillWillWeb",
 	"id": "d18b3df5-5248-43cc-9672-f34e10807cd9",
 	"idx": 249,
 	"join_time": 1651600790154,
@@ -4215,7 +4215,7 @@
 	"update_time": 1651600790154,
 	"url": "https://blog.miniasp.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "",
 	"id": "9016a3be-6fe0-4f05-8a43-edd38110e01d",
