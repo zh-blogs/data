@@ -9411,7 +9411,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "致虚极，守静笃。",
-	"sitemap": "",
+	"sitemap": "https://innei.ren/sitemap.xml",
 	"status": "OK",
 	"tags": [],
 	"update_time": 1651600790154,
@@ -9428,13 +9428,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "有秉性正直的松",
-	"sitemap": "",
+	"sitemap": "https://blog.iucky.cn/sitemap.xml",
 	"status": "OK",
 	"tags": [],
 	"update_time": 1651600790154,
 	"url": "https://blog.iucky.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://kevinlu98.cn/feed/",
 	"id": "f0307c38-9d80-4af8-a020-b2b4f3d61f72",
@@ -9445,13 +9445,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "让崇拜从这里开始，用代码做点好玩的事件，让每一天都变的充实起来",
-	"sitemap": "",
+	"sitemap": "https://kevinlu98.cn/sitemap.xml",
 	"status": "OK",
 	"tags": [],
 	"update_time": 1651600790154,
 	"url": "https://kevinlu98.cn/"
 }, {
-	"arch": "",
+	"arch": "Hexo",
 	"enabled": true,
 	"feed": "https://amoshk.top/atom.xml",
 	"id": "ed84eabc-12b7-433c-9ef5-bff1f3d7c76c",
@@ -9468,7 +9468,7 @@
 	"update_time": 1651600790154,
 	"url": "https://amoshk.top/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://t-t.live/feed/",
 	"id": "5805f231-6845-4d88-8dbe-ce2a098e0cab",
