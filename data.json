@@ -1478,7 +1478,7 @@
 	"update_time": 1651600790154,
 	"url": "https://shanglei.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.munue.com/feed",
 	"id": "dfc1f108-1a14-430c-a7e5-a3e5d8a86f76",
@@ -1489,13 +1489,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "万里风云三尺剑，一庭花草半床书",
-	"sitemap": "",
+	"sitemap": "https://www.munue.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["wordpress", "互联网", "资讯"],
 	"update_time": 1651600790154,
 	"url": "https://www.munue.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://fxpai.com/feed/",
 	"id": "42e814b7-00d8-4dde-bb5c-748d36c5eaeb",
@@ -1506,7 +1506,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "不与偏见和痼习为伍",
-	"sitemap": "",
+	"sitemap": "https://fxpai.com/wp-sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
@@ -1546,7 +1546,7 @@
 	"update_time": 1651600790154,
 	"url": "https://ltmltm.cn/bk/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://blog.cnbang.net/feed/",
 	"id": "76b88be9-eac6-4e6d-a0cb-6873a7d9a76d",
@@ -1563,7 +1563,7 @@
 	"update_time": 1651600790154,
 	"url": "https://blog.cnbang.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://chidd.net/feed",
 	"id": "ea47fe6f-9463-4be9-b4ba-dbc4634a2584",
@@ -1574,13 +1574,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "记录、生活、思考",
-	"sitemap": "",
+	"sitemap": "https://chidd.net/sitemap.xml",
 	"status": "ConnectTimeout",
 	"tags": ["生活", "杂谈", "记事", "图片"],
 	"update_time": 1651600790154,
 	"url": "https://chidd.net/"
 }, {
-	"arch": "",
+	"arch": "Jekyll",
 	"enabled": true,
 	"feed": "https://hutusi.com/feed.xml",
 	"id": "8d5be692-67ee-4a62-b3da-f2706b1ab8cc",
@@ -1591,15 +1591,15 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "任抛星汉归园圃，留取乾坤盛酒囊",
-	"sitemap": "",
+	"sitemap": "https://hutusi.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://hutusi.com/"
 }, {
-	"arch": "",
+	"arch": "Jekyll",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://hijoe.net/feed.xml",
 	"id": "804a33af-e631-438b-9465-53e102a6bcb0",
 	"idx": 95,
 	"join_time": 1651600790154,
@@ -1625,13 +1625,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "记录编程建站优化的学习博客",
-	"sitemap": "",
+	"sitemap": "https://www.anji66.net/sitemap.xml",
 	"status": "502",
 	"tags": ["seo", "生活", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://www.anji66.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://bwskyer.com/feed",
 	"id": "54cf8a0c-4d8d-4aae-b0fe-e005b3b1912a",
@@ -1642,7 +1642,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://bwskyer.com/sitemap.xml",
 	"status": "ConnectTimeout",
 	"tags": ["生活", "记事", "杂谈", "资讯", "wordpress"],
 	"update_time": 1651600790154,
@@ -1676,7 +1676,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "记录我的生活、所见、所闻、所想……",
-	"sitemap": "",
+	"sitemap": "https://www.iyuren.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "记事"],
 	"update_time": 1651600790154,
@@ -1699,7 +1699,7 @@
 	"update_time": 1651600790154,
 	"url": "https://itlu.org/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://coolshell.cn/feed",
 	"id": "4f72e761-0b50-42e2-8219-0af5bb820e8f",
@@ -1710,7 +1710,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "享受编程和技术所带来的快乐",
-	"sitemap": "",
+	"sitemap": "https://coolshell.cn/sitemap.xml",
 	"status": "OK",
 	"tags": ["php", "http", "网络", "架构", "技术"],
 	"update_time": 1651600790154,
