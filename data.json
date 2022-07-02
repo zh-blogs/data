@@ -764,7 +764,7 @@
 	"update_time": 1651600790154,
 	"url": "https://aotxland.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://shangjixin.com/feed/",
 	"id": "f31e5fe7-4ae1-49a9-b2f5-3a65daccd822",
@@ -775,13 +775,13 @@
 	"repeat": false,
 	"saveweb_id": "1406",
 	"sign": "不为建站,只为折腾",
-	"sitemap": "",
+	"sitemap": "https://shangjixin.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["前端", "生活", "vue.js"],
 	"update_time": 1651600790154,
 	"url": "https://shangjixin.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://xinyu19.com/feed/",
 	"id": "0f77cf84-bcb4-4974-b7c1-b7eba27061d5",
@@ -815,9 +815,9 @@
 	"update_time": 1651600790154,
 	"url": "https://cjj.today/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://www.jinjun.top/feed/",
 	"id": "e090e355-185d-4daa-a75d-ab40ab734d7b",
 	"idx": 49,
 	"join_time": 1651600790154,
@@ -832,7 +832,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.jinjun.top/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.sunjiwen.com/feed/",
 	"id": "f9670705-a782-4fd6-9eaa-9c05a952b4b8",
@@ -842,14 +842,14 @@
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "null",
-	"sign": "",
+	"sign": "走散的人再也不相逢",
 	"sitemap": "",
 	"status": "OK",
 	"tags": ["杂谈", "开发"],
 	"update_time": 1651600790154,
 	"url": "https://www.sunjiwen.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.xujilong.cn/feed/",
 	"id": "a45ab7ac-029a-4685-8cc4-361160d50981",
@@ -866,7 +866,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.xujilong.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.zrahh.com/feed/",
 	"id": "8c928a31-ac06-4d0f-b164-681ecf922ac5",
@@ -877,7 +877,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "关门... 放狗！-「训犬者洛克希」",
-	"sitemap": "",
+	"sitemap": "https://www.zrahh.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["杂谈", "笔记"],
 	"update_time": 1651600790154,
@@ -885,7 +885,7 @@
 }, {
 	"arch": "",
 	"enabled": true,
-	"feed": "https://blog.imalan.cn/feed/",
+	"feed": "https://blog.imalan.cn/feed/index.xml",
 	"id": "9989632b-69df-4452-8adc-7cc45482aae1",
 	"idx": 53,
 	"join_time": 1651600790154,
@@ -894,7 +894,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "我要与你坦诚相见",
-	"sitemap": "",
+	"sitemap": "https://blog.imalan.cn/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈", "硬件"],
 	"update_time": 1651600790154,
@@ -917,7 +917,7 @@
 	"update_time": 1651600790154,
 	"url": "https://taoxinhao.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.moerats.com/feed/",
 	"id": "e499ba92-a51f-49ca-9722-b74b9651abee",
@@ -928,13 +928,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "恰沐春风共同游，终只叹，木已舟。",
-	"sitemap": "",
+	"sitemap": "https://www.moerats.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["分享", "推荐"],
 	"update_time": 1651600790154,
 	"url": "https://www.moerats.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.xiaoz.me/feed",
 	"id": "4a32bf9b-11c2-4400-9ae1-da20cd2f1552",
@@ -945,13 +945,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "生命不息，吾将折腾不止。",
-	"sitemap": "",
+	"sitemap": "https://www.xiaoz.me/sitemap.xml",
 	"status": "OK",
 	"tags": ["推荐", "测评"],
 	"update_time": 1651600790154,
 	"url": "https://www.xiaoz.me/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "",
 	"id": "15a39a6a-d27e-4a43-a46e-f32fc2b5075b",
@@ -968,7 +968,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.tianshan277.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.noxxxx.com/feed",
 	"id": "07d82694-6eeb-45cb-97bd-9fa1c544a472",
@@ -979,13 +979,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "关注前沿技术,WordPress,大前端相关资讯,写代码,聊人生的一个地方",
-	"sitemap": "",
+	"sitemap": "https://www.noxxxx.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["前端", "node.js", "linux"],
 	"update_time": 1651600790154,
 	"url": "https://www.noxxxx.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://wzfou.com/feed/",
 	"id": "f2f4d598-3a08-48be-8aa1-66bd13c1e21a",
@@ -996,13 +996,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "挖掘建站的乐趣",
-	"sitemap": "",
+	"sitemap": "https://wzfou.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["vps", "分享", "测评", "建站"],
 	"update_time": 1651600790154,
 	"url": "https://wzfou.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.cmsky.com/feed/",
 	"id": "2d415fae-650e-4a09-83eb-ddc4a72ab458",
@@ -1013,7 +1013,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "绿色软件与IT资源分享",
-	"sitemap": "",
+	"sitemap": "https://www.cmsky.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["分享"],
 	"update_time": 1651600790154,
