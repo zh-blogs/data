@@ -1359,7 +1359,7 @@
 	"update_time": 1651600790154,
 	"url": "http://stuit.cn/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.watch-life.net/feed",
 	"id": "8e829666-0bb8-44aa-80b6-17cae4583444",
@@ -1370,13 +1370,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "守望生活, 审视自我,宁静雅致的小轩馆.",
-	"sitemap": "",
+	"sitemap": "https://www.watch-life.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["小程序", "技术", "生活", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://www.watch-life.net/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.chener.net/feed/",
 	"id": "ceff175c-6a7e-4228-99a4-6a606ab7ca09",
@@ -1387,13 +1387,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "只需看着别人精彩，老天对你另有安排。",
-	"sitemap": "",
+	"sitemap": "https://www.chener.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "记事", "记录", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.chener.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://synyan.cn/feed",
 	"id": "8414f074-0415-44f7-9989-6a3245df9674",
@@ -1403,8 +1403,8 @@
 	"recommend": false,
 	"repeat": false,
 	"saveweb_id": "",
-	"sign": "",
-	"sitemap": "",
+	"sign": "器材党广角狗，博物馆爱好者，旅游点打卡员",
+	"sitemap": "https://synyan.cn/wp-sitemap.xml",
 	"status": "OK",
 	"tags": ["摄影", "旅游"],
 	"update_time": 1651600790154,
@@ -1427,7 +1427,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.xlanda.net/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://ezo.biz/feed/",
 	"id": "c9a1bd1f-5fd9-4315-80ba-7b7bac79718e",
@@ -1444,7 +1444,7 @@
 	"update_time": 1651600790154,
 	"url": "https://ezo.biz/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://maie.name/feed",
 	"id": "8d8f8493-1fa0-42bd-8459-219f9d176503",
@@ -1455,13 +1455,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "背包行走，流浪天下",
-	"sitemap": "",
+	"sitemap": "https://maie.name/sitemap.xml",
 	"status": "OK",
 	"tags": ["摄影", "旅游"],
 	"update_time": 1651600790154,
 	"url": "https://maie.name/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://shanglei.net/feed/",
 	"id": "2c2ab415-7458-4210-a082-baa0829fccff",
@@ -1472,7 +1472,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "记录和分享生活中的点滴发现",
-	"sitemap": "",
+	"sitemap": "https://shanglei.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["logseq", "生活", "记事"],
 	"update_time": 1651600790154,
