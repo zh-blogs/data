@@ -1019,9 +1019,9 @@
 	"update_time": 1651600790154,
 	"url": "https://www.cmsky.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://zxx.im/feed/",
 	"id": "0df96f89-4e5e-4bcb-948a-942a3491ab6e",
 	"idx": 61,
 	"join_time": 1651600790154,
@@ -1053,7 +1053,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.zdaoxb.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://na.ci/feed/",
 	"id": "15779e48-c164-404a-a018-6182d1d6cb3e",
@@ -1070,7 +1070,7 @@
 	"update_time": 1651600790154,
 	"url": "https://na.ci/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "http://www.lopwon.com/feed/",
 	"id": "2d3ef6a5-e577-4966-b745-c195092f5358",
@@ -1087,7 +1087,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.lopwon.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://manman.qian.lu/rsslatest.xml",
 	"id": "6f205c29-fc0d-4ed2-8cf2-21607919e321",
@@ -1121,7 +1121,7 @@
 	"update_time": 1651600790154,
 	"url": "https://zzbapp.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.shephe.com/feed/",
 	"id": "c7c524b9-270b-4a8e-abbc-709ab02d70ce",
@@ -1138,7 +1138,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.shephe.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.huhexian.com/feed/",
 	"id": "45c60c0a-fc42-4a8e-9e1b-d1c1afe20009",
@@ -1149,15 +1149,15 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "主要分享自己的生活故事,对世间百态的简单看法,同时分享简单好玩的新奇玩意,分享生活与你的美。",
-	"sitemap": "",
+	"sitemap": "https://www.huhexian.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["js", "wordpress", "emlog", "技术"],
 	"update_time": 1651600790154,
 	"url": "https://www.huhexian.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://chujian.xyz/feed/",
 	"id": "01ac8bcd-6e6b-4ce8-9941-3a93b4bb1b50",
 	"idx": 69,
 	"join_time": 1651600790154,
@@ -1166,13 +1166,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://chujian.xyz/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈", "随笔"],
 	"update_time": 1651600790154,
 	"url": "https://chujian.xyz/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://yiws.net/feed/",
 	"id": "86433a88-c29f-4ab3-914a-4ce055c10c88",
@@ -1183,7 +1183,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "书已逝时光，忆旧日往事",
-	"sitemap": "",
+	"sitemap": "https://yiws.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "记事", "记录", "随笔"],
 	"update_time": 1651600790154,
@@ -1206,7 +1206,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.nice.im/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "http://www.qncd.com/?feed=rss2",
 	"id": "3a6ab54a-e731-421b-95c2-0d5e39e9f574",
@@ -1240,14 +1240,14 @@
 	"update_time": 1651600790154,
 	"url": "https://boke.one/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "http://www.winature.com/?feed=rss2",
 	"id": "7485bf18-fb21-4a18-9c93-5c87af5fc10a",
 	"idx": 74,
 	"join_time": 1651600790154,
 	"name": "一介大叔",
-	"recommend": false,
+	"recommend": true,
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "日暮聊为梁父吟，花径不曾缘客扫。",
@@ -1274,7 +1274,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.yezaifei.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "http://www.izhuyue.com/feed/",
 	"id": "3cbefc96-fcaa-41ff-be14-079a935861cd",
@@ -1291,7 +1291,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.izhuyue.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://qingruoli.com/feed",
 	"id": "f4680eaa-f162-4a4b-b2c3-edc1897c15e8",
@@ -1308,8 +1308,8 @@
 	"update_time": 1651600790154,
 	"url": "https://qingruoli.com/"
 }, {
-	"arch": "",
-	"enabled": true,
+	"arch": "WordPress",
+	"enabled": false,
 	"feed": "https://www.jinbo123.com/feed",
 	"id": "56a95b1a-0f8e-4ac5-9243-a206564ea910",
 	"idx": 78,
@@ -1325,7 +1325,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.jinbo123.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://qfsyj.com/feed/",
 	"id": "e7e9eefb-6c74-47c9-b99d-2b521fb42ffb",
@@ -1342,7 +1342,7 @@
 	"update_time": 1651600790154,
 	"url": "https://qfsyj.com/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "",
 	"id": "3aa16405-fdde-4001-93f1-98dd0f51fff1",
