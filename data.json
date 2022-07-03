@@ -148,7 +148,7 @@
 	"sign": "一小我的记载,一群人的狂欢",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈","记录"],
+	"tags": ["生活","杂谈","记录"],
 	"update_time": 1656417408828,
 	"url": "https://xiannian.top/"
 }, {
@@ -165,7 +165,7 @@
 	"sign": "闲言俗语，杂文杂记，图个自在",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "节气"],
+	"tags": ["生活","节气","记录"],
 	"update_time": 1656417462413,
 	"url": "http://1900.live/"
 }, {
@@ -182,11 +182,11 @@
 	"sign": "伪极简主义、 面向Google 编程、股市萌新、伪奢侈品爱好者。",
 	"sitemap": "https://fatesinger.com/wp-sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "杂谈"],
+	"tags": ["生活","记录","理财","杂记"],
 	"update_time": 1656417544075,
 	"url": "https://fatesinger.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://mlldxe.cn/feed",
 	"id": "8f917669-ace7-497b-b121-ac52d726f2d8",
@@ -199,11 +199,11 @@
 	"sign": "A responsible Blog for WordPress",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["wordpress", "建站"],
+	"tags": ["技术","教程","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://mlldxe.cn/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://www.lshongg.cn/feed/",
 	"id": "3cd6d71f-0bf9-46e6-ae86-b6d0f9922929",
@@ -216,7 +216,7 @@
 	"sign": "晒出自己看到的世界,写出自己所想的细节。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈"],
+	"tags": ["生活","美文","收集"],
 	"update_time": 1651600790154,
 	"url": "https://www.lshongg.cn/"
 }, {
@@ -233,7 +233,7 @@
 	"sign": "关注健康，记录生活，写自己感兴趣的内容",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈"],
+	"tags": ["生活", "记录","健康"],
 	"update_time": 1651600790154,
 	"url": "https://www.liangduiban.com/"
 }, {
@@ -250,11 +250,11 @@
 	"sign": "记录学习与生活的点滴",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈", "网络"],
+	"tags": ["生活","杂谈","思考"],
 	"update_time": 1651600790154,
 	"url": "https://linsanhu.com/"
 }, {
-	"arch": "",
+	"arch": "TiddlyWiki",
 	"enabled": true,
 	"feed": "",
 	"id": "9a7a1527-539c-4764-8b55-340513e0b758",
@@ -267,7 +267,7 @@
 	"sign": "用TiddlyWiki记录 知识 想法 计划",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活"],
+	"tags": ["生活","记录","思考"],
 	"update_time": 1651600790154,
 	"url": "https://lsbackyard.cn/"
 }, {
@@ -301,7 +301,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": [],
+	"tags": ["无法访问"],
 	"update_time": 1651600790154,
 	"url": "https://fongsoul.com/"
 }, {
@@ -318,7 +318,7 @@
 	"sign": "记录一名家庭医生的成长历程",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活"],
+	"tags": ["生活","杂谈","学习","思考"],
 	"update_time": 1651600790154,
 	"url": "https://www.xiangshitan.com/"
 }, {
@@ -335,7 +335,7 @@
 	"sign": "Welcome to Catfish's website.",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活"],
+	"tags": ["生活","记录"],
 	"update_time": 1651600790154,
 	"url": "https://2cat.net/"
 }, {
