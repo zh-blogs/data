@@ -1523,13 +1523,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "生活里一天天一些些一点点消失了…",
-	"sitemap": "",
+	"sitemap": "http://blog.dngz.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["路由器", "生活", "记事"],
 	"update_time": 1651600790154,
 	"url": "http://blog.dngz.net/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://ltmltm.cn/bk/feed/",
 	"id": "417bc029-1427-44fa-af16-fd0ee285b0b8",
@@ -1648,7 +1648,7 @@
 	"update_time": 1651600790154,
 	"url": "https://bwskyer.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://muguayuan.com/feed",
 	"id": "57e23f43-3d87-48f7-b7c9-4f4759aa8147",
@@ -1659,7 +1659,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "远引若至，临之已非！",
-	"sitemap": "",
+	"sitemap": "https://muguayuan.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["旅游", "摄影"],
 	"update_time": 1651600790154,
@@ -1682,9 +1682,9 @@
 	"update_time": 1651600790154,
 	"url": "https://www.iyuren.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
-	"feed": "",
+	"feed": "https://itlu.org/feed/",
 	"id": "e0b552be-6453-4ec8-b36d-6a1718f4d733",
 	"idx": 100,
 	"join_time": 1651600790154,
@@ -1750,7 +1750,7 @@
 	"update_time": 1651600790154,
 	"url": "http://www.winegrower.cn/"
 }, {
-	"arch": "",
+	"arch": "Jekyll",
 	"enabled": true,
 	"feed": "https://yanhaijing.com/rss.xml",
 	"id": "045e15e2-191d-4e17-bf15-f7ca0100656b",
@@ -1761,13 +1761,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "专注Web前端",
-	"sitemap": "",
+	"sitemap": "https://yanhaijing.com/sitemap.txt",
 	"status": "OK",
 	"tags": ["react", "css", "git", "node.js", "html5", "html"],
 	"update_time": 1651600790154,
 	"url": "https://yanhaijing.com/"
 }, {
-	"arch": "",
+	"arch": "Jekyll",
 	"enabled": true,
 	"feed": "https://justjavac.com/atom.xml",
 	"id": "42c271f3-ae07-49d0-a645-3e074b4934b9",
@@ -1903,7 +1903,7 @@
 	"update_time": 1651600790154,
 	"url": "https://huiris.com/"
 }, {
-	"arch": "",
+	"arch": "Typecho",
 	"enabled": true,
 	"feed": "https://twokg.com/feed/",
 	"id": "c11e932a-b57d-431e-83b8-1e25a3456e1d",
@@ -1914,7 +1914,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "坚持有态度的个人博客。",
-	"sitemap": "",
+	"sitemap": "https://twokg.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "记事", "记录"],
 	"update_time": 1651600790154,
