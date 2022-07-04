@@ -1920,7 +1920,7 @@
 	"update_time": 1651600790154,
 	"url": "https://twokg.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://justyy.com/feed",
 	"id": "25d04b87-17f3-4f56-9576-50a506cb6eba",
@@ -1931,13 +1931,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://justyy.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["php", "生活", "记事", "记录"],
 	"update_time": 1651600790154,
 	"url": "https://justyy.com/"
 }, {
-	"arch": "",
+	"arch": "Jekyll",
 	"enabled": true,
 	"feed": "https://blog.fooleap.org/atom.xml",
 	"id": "0e3a01de-42fc-4f44-8f95-d4670c343adc",
@@ -1954,7 +1954,7 @@
 	"update_time": 1651600790154,
 	"url": "https://blog.fooleap.org/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://luolei.org/feed/",
 	"id": "5d4d5c22-3e90-4850-9c85-c0e3808bb5cd",
@@ -1965,13 +1965,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "前端工程师，ZUOLUOTV制作人",
-	"sitemap": "",
+	"sitemap": "https://luolei.org/sitemap_index.xml",
 	"status": "OK",
 	"tags": ["生活", "旅游", "记事", "数码", "网站推荐"],
 	"update_time": 1651600790154,
 	"url": "https://luolei.org/"
 }, {
-	"arch": "",
+	"arch": "Hugo",
 	"enabled": true,
 	"feed": "",
 	"id": "2e5bb379-732e-4984-a5d9-45f88555a5c2",
@@ -1988,7 +1988,7 @@
 	"update_time": 1651600790154,
 	"url": "https://blog.forecho.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.syshut.com/feed",
 	"id": "4faa9127-5c3f-4cd4-acf6-4e0142363d0d",
@@ -2005,7 +2005,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.syshut.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://kn007.net/feed/",
 	"id": "ba041a1f-ff9b-443b-aade-1f33ab612d2c",
@@ -2016,13 +2016,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "https://kn007.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "记录", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://kn007.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "http://cppdebug.com/feed",
 	"id": "9ea8a72d-2d23-4f6f-9a21-e22236353d83",
@@ -2033,13 +2033,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "",
-	"sitemap": "",
+	"sitemap": "http://cppdebug.com/wp-sitemap.xml",
 	"status": "OK",
 	"tags": ["qt", "vtk", "unity", "c/c++", "技术"],
 	"update_time": 1651600790154,
 	"url": "http://cppdebug.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "http://moe.xin/feed",
 	"id": "8f9d372e-c819-4133-a5f6-68c143ae7483",
@@ -2056,9 +2056,9 @@
 	"update_time": 1651600790154,
 	"url": "http://moe.xin/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
-	"feed": "https://wanbk.net/feed.php",
+	"feed": "https://wanbk.net/feed",
 	"id": "00ebe9e9-9e6c-4b79-9746-c130a8ecb7e4",
 	"idx": 122,
 	"join_time": 1651600790154,
@@ -2067,13 +2067,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "感谢你一直都在",
-	"sitemap": "",
+	"sitemap": "https://wanbk.net/wp-sitemap.xml",
 	"status": "SSLError",
 	"tags": ["生活", "杂谈", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://wanbk.net/"
 }, {
-	"arch": "",
+	"arch": "Emlog",
 	"enabled": true,
 	"feed": "https://www.mhcf.net/rss.php",
 	"id": "65cc7418-b0d3-4c82-a8a1-c1be3be9c530",
@@ -2084,13 +2084,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "莫問前路遙遠，與君風雪壹程",
-	"sitemap": "",
+	"sitemap": "https://www.mhcf.net/sitemap.xml",
 	"status": "OK",
 	"tags": ["回忆", "生活", "记事", "记录"],
 	"update_time": 1651600790154,
 	"url": "https://www.mhcf.net/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.80shihua.com/feed",
 	"id": "583391eb-4810-4275-bc73-889ca2feab9a",
@@ -2101,13 +2101,13 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "一个php程序员的个人博客",
-	"sitemap": "",
+	"sitemap": "https://www.80shihua.com/sitemap.xml",
 	"status": "OK",
 	"tags": ["php", "mysql", "linux", "python", "js", "杂谈", "技术"],
 	"update_time": 1651600790154,
 	"url": "https://www.80shihua.com/"
 }, {
-	"arch": "",
+	"arch": "WordPress",
 	"enabled": true,
 	"feed": "https://www.linlinzzo.top/feed",
 	"id": "fbcdcae5-378d-452c-a672-a464f3894a6b",
@@ -2124,7 +2124,7 @@
 	"update_time": 1651600790154,
 	"url": "https://www.linlinzzo.top/"
 }, {
-	"arch": "",
+	"arch": "ZBlog",
 	"enabled": true,
 	"feed": "",
 	"id": "6672f405-f194-485c-afd6-e455c324a8ca",
@@ -2135,7 +2135,7 @@
 	"repeat": false,
 	"saveweb_id": "",
 	"sign": "不忘初心 方得始终 初心易得 始终难守",
-	"sitemap": "",
+	"sitemap": "http://www.zuijh.net/blog/sitemap.xml",
 	"status": "OK",
 	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
@@ -5098,6 +5098,23 @@
 	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://jyzhu.top/"
+}, {
+	"arch": "",
+	"enabled": false,
+	"feed": "",
+	"id": "ff6e963e-83f4-4f9b-9fcc-d1b5d02c40be",
+	"idx": 302,
+	"join_time": 1651600790154,
+	"name": "Yanliang",
+	"recommend": false,
+	"repeat": false,
+	"saveweb_id": "",
+	"sign": "Believe in yourself.",
+	"sitemap": "",
+	"status": "OK",
+	"tags": ["jvm", "kafka", "sql", "原理", "互联网"],
+	"update_time": 1651600790154,
+	"url": "https://gyl-coder.top/"
 }, {
 	"arch": "",
 	"enabled": true,
