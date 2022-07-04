@@ -182,7 +182,7 @@
 	"sign": "伪极简主义、 面向Google 编程、股市萌新、伪奢侈品爱好者。",
 	"sitemap": "https://fatesinger.com/wp-sitemap.xml",
 	"status": "OK",
-	"tags": ["生活","记录","理财","杂记"],
+	"tags": ["生活","记录","理财","杂录"],
 	"update_time": 1656417544075,
 	"url": "https://fatesinger.com/"
 }, {
@@ -352,7 +352,7 @@
 	"sign": "人脑太复杂,时间过得久,记下来才是最真实的……",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "回忆"],
+	"tags": ["生活","杂录","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.coolblood.cn/"
 }, {
@@ -369,11 +369,11 @@
 	"sign": "吴侬软语、小桥流水，最美在苏州。",
 	"sitemap": "https://pwsz.com/sitemap.xml",
 	"status": "ConnectionError",
-	"tags": ["生活", "记事"],
+	"tags": ["生活","杂录"],
 	"update_time": 1651600790154,
 	"url": "https://pwsz.com/"
 }, {
-	"arch": "",
+	"arch": "原创程序",
 	"enabled": true,
 	"feed": "http://www.auiou.com/feed/",
 	"id": "6512ecd1-7463-483f-8b5a-501ed67c0239",
@@ -386,7 +386,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["数码", "音乐", "生活"],
+	"tags": ["生活","数码","音乐"],
 	"update_time": 1651600790154,
 	"url": "http://www.auiou.com/"
 }, {
@@ -403,7 +403,7 @@
 	"sign": "专注科技生活方式",
 	"sitemap": "https://www.smbinn.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["数码"],
+	"tags": ["技术","数码","整合","分享"],
 	"update_time": 1651600790154,
 	"url": "https://www.smbinn.com/"
 }, {
@@ -420,7 +420,7 @@
 	"sign": "心明若鏡，不將不迎",
 	"sitemap": "https://yingfeng.me/sitemap.xml",
 	"status": "OK",
-	"tags": ["数码", "生活", "杂谈"],
+	"tags": ["技术","教程","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://yingfeng.me/"
 }, {
@@ -437,7 +437,7 @@
 	"sign": "美好科技生活方式",
 	"sitemap": "https://www.lanka.cn/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "应用推荐", "回忆", "杂谈"],
+	"tags": ["生活","科技","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.lanka.cn/"
 }, {
@@ -454,11 +454,11 @@
 	"sign": "记录每周值得分享的科技内容",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["科技", "数码", "网络", "新闻", "网站推荐"],
+	"tags": ["技术","科技","网络","新闻","开发"],
 	"update_time": 1655285199320,
 	"url": "https://www.ruanyifeng.com/blog/"
 }, {
-	"arch": "",
+	"arch": "Blotter",
 	"enabled": true,
 	"feed": "https://www.ohyee.cc/rss.xml",
 	"id": "b308d305-7b6e-476a-b7f4-fca3b28e895a",
@@ -471,7 +471,7 @@
 	"sign": "个人向笔记性质技术分享，共产主义开源编程",
 	"sitemap": "https://www.ohyee.cc/sitemap.xml",
 	"status": "OK",
-	"tags": ["go", "python", "js", "linux", "leetcode", "算法", "杂谈", "c/c++", "git", "容器", "开发"],
+	"tags": ["技术","笔记","开发","杂谈","Linux"],
 	"update_time": 1651681858608,
 	"url": "https://www.ohyee.cc/"
 }, {
@@ -488,7 +488,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "杂谈", "手办", "动漫", "discuz!", "wordpress"],
+	"tags": ["生活","杂谈","动漫"],
 	"update_time": 1651600790154,
 	"url": "https://xsui.com/"
 }, {
@@ -505,7 +505,7 @@
 	"sign": "寥寥数语，皆我心之所慨……",
 	"sitemap": "https://qifu.me/wp-sitemap-posts-post-1.xml",
 	"status": "OK",
-	"tags": ["生活", "杂谈", "回忆"],
+	"tags": ["生活","杂谈","杂录"],
 	"update_time": 1651600790154,
 	"url": "https://qifu.me/"
 }, {
@@ -522,7 +522,7 @@
 	"sign": "一切过往，皆为序章。直挂云帆，乘风破浪。",
 	"sitemap": "https://www.yunfanch.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["js", "生活", "杂谈"],
+	"tags": ["生活","杂谈","杂录","代码"],
 	"update_time": 1651600790154,
 	"url": "https://yunfanch.com/"
 }, {
