@@ -90,7 +90,7 @@
         "url": "https://tunanshan.com/"
     },
     {
-        "arch": "Emlog",
+        "arch": "emlog",
         "enabled": true,
         "feed": "",
         "id": "634fe504-56dd-4b3f-bfb3-16f2ac59ceb1",
@@ -156,7 +156,7 @@
         "url": "https://ryanc.cc/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "http://lao.si/feed",
         "id": "175bb5ae-be8c-49ee-8028-793ae55ec740",
@@ -222,7 +222,7 @@
         "url": "http://1900.live/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://fatesinger.com/feed",
         "id": "602b90df-c43d-43b3-a803-c42b752c82ec",
@@ -376,7 +376,7 @@
         "url": "https://www.yayu.net/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "",
         "id": "761540bb-abb3-4559-a8c7-b216524a703a",
@@ -483,7 +483,7 @@
         "url": "https://pwsz.com/"
     },
     {
-        "arch": "原创程序",
+        "arch": "other",
         "enabled": true,
         "feed": "http://www.auiou.com/feed/",
         "id": "6512ecd1-7463-483f-8b5a-501ed67c0239",
@@ -14199,7 +14199,7 @@
         "url": "https://colobu.com/"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "http://feihu.me/blog/feed.atom",
         "id": "05891720-e174-4525-87dc-cb5f772b6e12",
@@ -14268,10 +14268,10 @@
         "status": "OK",
         "tags": [],
         "update_time": 1651600790154,
-        "url": "https://limboy.me"
+        "url": "https://limboy.me/"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "http://blog.sunnyxx.com/atom.xml",
         "id": "7d0fd4ee-3a24-41df-a64b-363166ef6afb",
@@ -20419,7 +20419,7 @@
         "url": "https://bubuzou.com/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://holmesian.org/feed",
         "id": "eac5865a-2ad6-401f-8718-b454b7163a74",
@@ -20456,7 +20456,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://dingzeyu.li/blog/feed.xml",
         "id": "97b2becd-908e-4cb9-8b39-9d28e0fb0c04",
         "idx": 1076,
@@ -20506,7 +20506,7 @@
         "status": "OK",
         "tags": [],
         "update_time": 1651600790154,
-        "url": "http://muyunyun.cn/blog/"
+        "url": "https://muyunyun.cn/blog/"
     },
     {
         "arch": "",
@@ -23665,7 +23665,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "",
         "id": "1ea9c7a8-676e-4f85-a406-6e1666b78f8b",
         "idx": 1255,
@@ -23700,7 +23700,7 @@
         "url": "https://www.qtmuniao.com"
     },
     {
-        "arch": "typecho",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://xdym11235.com/feed/",
         "id": "91b522bc-c95b-471a-93e0-618f8a0fc392",
@@ -23808,7 +23808,7 @@
         "url": "https://ilovey.live/"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://www.linchangyu.com/feed.xml",
         "id": "5e5bc7d0-3259-4436-a744-d0c0527a7eb5",
@@ -27001,7 +27001,7 @@
         "url": "https://fangshi.org/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.citynomads.cn/feed",
         "id": "7944c124-8a82-4887-a341-b3dfddde611d",
@@ -28700,7 +28700,7 @@
         "url": "https://www.nikoblog.top/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "",
         "id": "8696d08e-726a-4a7c-9ccc-2ba42cd4d4c5",
