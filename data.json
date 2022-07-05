@@ -539,7 +539,7 @@
 	"sign": "师者，传道，授业，解惑！",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["杂谈", "教程", "游戏", "群晖"],
+	"tags": ["技术", "资源", "教程", "游戏"],
 	"update_time": 1651600790154,
 	"url": "https://dusays.com/"
 }, {
@@ -556,7 +556,7 @@
 	"sign": "万物皆虚，万事皆允",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活"],
+	"tags": ["生活","学习","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://mubaix.github.io/"
 }, {
@@ -573,7 +573,7 @@
 	"sign": "Just another WordPress site",
 	"sitemap": "https://eqblog.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["python", "爬虫", "wordpress", "apache", "c/c++", "mysql", "前端", "nginx"],
+	"tags": ["技术","python", "爬虫", "wordpress", "apache", "c/c++", "mysql", "前端", "nginx"],
 	"update_time": 1651600790154,
 	"url": "https://eqblog.com/"
 }, {
