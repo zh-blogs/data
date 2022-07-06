@@ -18214,7 +18214,7 @@
         "url": "https://rivennero.com/"
     },
     {
-        "arch": "",
+        "arch": "Halo",
         "enabled": true,
         "feed": "https://juemuren4449.com/atom.xml",
         "id": "7ec04fbe-a255-4139-9df0-27deaa0fd13c",
@@ -18268,7 +18268,7 @@
         "url": "https://blog.jiejiss.com"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://thewanderingpotato.github.io/feed.xml",
         "id": "78463623-a06e-4758-a3f2-b25aaf026c8d",
@@ -18377,7 +18377,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://www.aceact.com/feed/",
         "id": "de5aa074-e70a-484f-b6be-aeef1dc46987",
         "idx": 961,
@@ -18701,7 +18701,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "",
         "id": "3748388a-cc47-4a60-9bf6-60cef1511556",
         "idx": 979,
@@ -18754,7 +18754,7 @@
         "url": "https://nalaginrut.com/index"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "http://i.lckiss.com/?feed=rss2",
         "id": "eeef7877-44dc-46a8-93ff-a7485da45b57",
@@ -18814,7 +18814,7 @@
     {
         "arch": "",
         "enabled": true,
-        "feed": "https://blog.gavln.com/atom.xml",
+        "feed": "https://blog.gavln.com/feed.xml",
         "id": "a4ab3bf8-83cd-49c1-892b-ee2c33ec38e6",
         "idx": 985,
         "join_time": 1651600790154,
@@ -18884,7 +18884,7 @@
         "url": "https://blog.aeilot.top/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://www.ybusad.com/rss",
         "id": "b3a47323-d0ef-4e36-8307-d7fe33d2f401",
@@ -18975,7 +18975,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": null,
         "id": "e74b0f40-d1cd-457d-92c2-a9c237dd96b8",
         "idx": 994,
@@ -19046,7 +19046,7 @@
         "url": "https://mutoo.im"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://ourai.ws/atom.xml",
         "id": "b9b26422-5a60-45c9-a305-a82e0c28338f",
@@ -19083,7 +19083,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://asazero.blogspot.com/feeds/posts/default",
         "id": "6cda38ef-d69e-4c4b-b898-b36c392081b3",
         "idx": 1000,
@@ -19118,7 +19118,7 @@
         "url": "https://ddadaal.me"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://wuzhuti.cn/feed",
         "id": "2bfd859a-5577-4141-acb9-2dd2aafcc00e",
@@ -19137,7 +19137,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://dbarobin.com/feed.xml",
         "id": "d7d35bf8-b8c7-4b7b-ab05-6420b84e6343",
         "idx": 1003,
@@ -19187,7 +19187,7 @@
         "status": "OK",
         "tags": [],
         "update_time": 1651600790154,
-        "url": "https://luyuhuang.github.io"
+        "url": "http://luyuhuang.tech/"
     },
     {
         "arch": "WordPress",
@@ -19334,7 +19334,7 @@
         "url": "https://fourhappylions.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": null,
         "id": "ab37a43a-1b5a-43c7-ab1c-9b9792aa498e",
@@ -19352,7 +19352,7 @@
         "url": "https://wandoer.com"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://chegva.com/feed/",
         "id": "5d0cf1d3-7e67-456c-9d24-e36819e20043",
@@ -19425,7 +19425,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://blog.maolu.one/feed/",
         "id": "c1093c3a-ebfc-4948-932f-7049ad3b0638",
         "idx": 1019,
@@ -19442,7 +19442,7 @@
         "url": "https://blog.maolu.one"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "https://cdn.jsdelivr.net/gh/ljcbaby/ljcbaby.github.io@latest/atom.xml",
         "id": "c8db3e88-2757-4cda-900f-4d6e6f60fbb0",
@@ -19496,7 +19496,7 @@
         "url": "https://yjalifebook.com/"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://lgf.im/index.xml",
         "id": "b2f5e642-000d-4172-bdc6-c9fa1c1e683e",
@@ -19605,7 +19605,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "",
         "id": "2721cd4c-3694-4687-a4be-a14cafd010ed",
         "idx": 1029,
@@ -19622,7 +19622,7 @@
         "url": "https://peon.top"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://mathpretty.com/feed/",
         "id": "4b2dde9a-1ec5-4e85-aa40-9b9c0494084a",
