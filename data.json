@@ -12433,7 +12433,7 @@
         "url": "http://www.moxiaocc.cn/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://www.haowenbo.com/rss.xml",
         "id": "0cbe020a-cd0f-4523-8486-da8b3cb485ee",
@@ -12503,7 +12503,7 @@
         "url": "https://razeencheng.com/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://deepzz.com/rss.html",
         "id": "ef358caa-43c7-43b2-83e6-b9020d191854",
@@ -12539,7 +12539,7 @@
         "url": "https://sianx.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.hhju.com/feed",
         "id": "9591a0d6-6ff3-4936-bf7c-a19c0e38aa32",
@@ -12611,7 +12611,7 @@
         "url": "https://codeonce.cc"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://www.chiloh.cn/index.php/feed/",
         "id": "f5ccdbb4-ae95-49d5-93bb-15bcf894ded2",
@@ -12629,7 +12629,7 @@
         "url": "https://www.chiloh.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.xxbxk.top/feed/",
         "id": "fcd7204d-6dc7-482a-9ba2-413b408a95e8",
@@ -12666,7 +12666,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://www.malei.net/feed",
         "id": "691466ff-701a-40a1-9fe3-fb7e32c70d81",
         "idx": 643,
@@ -12737,7 +12737,7 @@
         "url": "http://yuweiqing.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "",
         "id": "0300e616-2c33-4105-bf3a-667ed4273494",
@@ -12840,7 +12840,7 @@
         "repeat": false,
         "saveweb_id": "",
         "sign": "歪酷，歪酷博客，熊の猫，熊的猫，标准城市空巢青年。本博客基于Jekyll进行书写。源自生活的点点滴滴和碎碎念。",
-        "sitemap": "",
+        "sitemap": "https://y.cool/sitemap.xml",
         "status": "OK",
         "tags": [],
         "update_time": 1651600790154,
@@ -12991,7 +12991,7 @@
         "url": "https://blog.sodayang.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "http://libinhao.cn/feed/",
         "id": "e0535e6a-51ec-465e-b162-9c3a3568c867",
@@ -13063,7 +13063,7 @@
         "url": "https://blog.md123.top/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://blog.md123.top/feed/",
         "id": "bd72b009-97fc-4e5e-b4e1-c3f09a321cfd",
@@ -13081,7 +13081,7 @@
         "url": "https://wch666.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "",
         "id": "a19588c3-6e83-42b9-be16-555b2020b4c7",
@@ -13099,7 +13099,7 @@
         "url": "https://1000books.club/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.rjpz.net/feed",
         "id": "3a78c82b-4a2c-4f7f-b275-06cbeabf89a6",
@@ -13117,7 +13117,7 @@
         "url": "https://www.rjpz.net/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.caochen.net/feed",
         "id": "c8e6c726-8322-4407-8029-2b8f599fe45b",
@@ -13297,7 +13297,7 @@
         "url": "https://blog.codingnow.com"
     },
     {
-        "arch": "",
+        "arch": "Django",
         "enabled": true,
         "feed": "https://www.phodal.com/blog/feeds/rss/",
         "id": "fca1c17c-8a4d-4bb9-85d3-6829cd1ec774",
@@ -13387,7 +13387,7 @@
         "url": "https://www.lichong.work"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "http://luolei.org/feed/",
         "id": "78cf0490-f2e2-4756-9c29-563b764f8eda",
@@ -13459,7 +13459,7 @@
         "url": "https://daimajia.com"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://www.kymjs.com/feed.xml",
         "id": "2c2b6c9d-1f60-4009-be8c-a1cd2199c4d5",
@@ -13477,7 +13477,7 @@
         "url": "https://kymjs.com"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://droidyue.com/atom.xml",
         "id": "2e5abcc8-72f2-4c15-a417-46c8e92d768d",
@@ -13513,7 +13513,7 @@
         "url": "https://vzardlloo.github.io"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://rowkey.cn/atom.xml",
         "id": "0219fd5f-9aeb-4901-ab9f-4671764de066",
@@ -13549,7 +13549,7 @@
         "url": "https://blog.lilydjwg.me"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://hintsnet.com/pimgeek/feed/",
         "id": "61ac1ae9-9ca4-427e-b514-a21f83cb04b2",
@@ -13585,7 +13585,7 @@
         "url": "https://toweave.github.io"
     },
     {
-        "arch": "",
+        "arch": "Ghost",
         "enabled": true,
         "feed": "https://ghost.mout.me/rss/",
         "id": "67dd9919-bb05-4000-8709-de1df42fbdd3",
@@ -13657,8 +13657,8 @@
         "url": "https://hawstein.com/"
     },
     {
-        "arch": "",
-        "enabled": true,
+        "arch": "WordPress",
+        "enabled": false,
         "feed": "http://www.skywind.me/blog/feed",
         "id": "fa107466-a5d5-40e1-8870-4462b3237229",
         "idx": 698,
@@ -13748,7 +13748,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "http://xiaix.me/rss/",
         "id": "dae3f8e1-ae1c-4fe6-9036-4869927d3330",
         "idx": 703,
@@ -13766,7 +13766,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "http://teddy-chen-tw.blogspot.com/feeds/posts/default",
         "id": "82915917-d848-40b1-906f-0b3728e5293c",
         "idx": 704,
@@ -13783,7 +13783,7 @@
         "url": "https://teddy-chen-tw.blogspot.com/"
     },
     {
-        "arch": "other",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "http://www.barretlee.com/rss2.xml",
         "id": "3d6ddaf3-f4a7-4cca-95ab-414e4666d40c",
@@ -13820,7 +13820,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "http://mercurychong.blogspot.com/feeds/posts/default",
         "id": "ae6537cd-2f1a-4709-a756-90d9c5daec8b",
         "idx": 707,
@@ -16306,7 +16306,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "",
         "id": "14f6eb76-717b-4525-9124-d87653dfb399",
         "idx": 846,
@@ -16333,7 +16333,7 @@
         "recommend": false,
         "repeat": false,
         "saveweb_id": "",
-        "sign": "",
+        "sign": "妄图改变世界的全栈程序员",
         "sitemap": "",
         "status": "OK",
         "tags": [],
@@ -16359,7 +16359,7 @@
         "url": "https://blog.vadxq.com"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "https://fengxu.ink/atom.xml",
         "id": "3b04c0eb-9c07-4a7a-8f71-cc65c720e779",
@@ -16378,7 +16378,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://www.wolone.wang/feed/",
         "id": "28ddf585-9647-4e2f-9c3b-8d5ad4c7b307",
         "idx": 850,
