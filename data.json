@@ -64,7 +64,7 @@
 	"sign": "从前有座山，山里有座庙，庙里有个白胡子老道",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔","记录"],
+	"tags": ["生活","杂谈","记录"],
 	"update_time": 1656416667136,
 	"url": "https://tunanshan.com/"
 }, {
@@ -98,7 +98,7 @@
 	"sign": "丰富想象力，激发创造力。",
 	"sitemap": "https://www.bytecho.net/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术","Java","C/C++","记录"],
+	"tags": ["技术","Java","C/C++","学习","记录"],
 	"update_time": 1656416729947,
 	"url": "https://www.bytecho.net/"
 }, {
@@ -132,7 +132,7 @@
 	"sign": "记录琐事和并不多的思考",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔"],
+	"tags": ["生活","随笔","杂录"],
 	"update_time": 1656417363322,
 	"url": "http://lao.si/"
 }, {
@@ -149,7 +149,7 @@
 	"sign": "一小我的记载,一群人的狂欢",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔","记录"],
+	"tags": ["生活","杂谈","记录"],
 	"update_time": 1656417408828,
 	"url": "https://xiannian.top/"
 }, {
@@ -183,7 +183,7 @@
 	"sign": "伪极简主义、 面向Google 编程、股市萌新、伪奢侈品爱好者。",
 	"sitemap": "https://fatesinger.com/wp-sitemap.xml",
 	"status": "OK",
-	"tags": ["生活","记录","理财"],
+	"tags": ["生活","记录","理财","杂录"],
 	"update_time": 1656417544075,
 	"url": "https://fatesinger.com/"
 }, {
@@ -200,7 +200,7 @@
 	"sign": "A responsible Blog for WordPress",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["技术","教程","随笔"],
+	"tags": ["技术","教程","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://mlldxe.cn/"
 }, {
@@ -251,7 +251,7 @@
 	"sign": "记录学习与生活的点滴",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔","思考"],
+	"tags": ["生活","杂谈","思考"],
 	"update_time": 1651600790154,
 	"url": "https://linsanhu.com/"
 }, {
@@ -319,7 +319,7 @@
 	"sign": "记录一名家庭医生的成长历程",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔","学习","思考"],
+	"tags": ["生活","杂谈","学习","思考"],
 	"update_time": 1651600790154,
 	"url": "https://www.xiangshitan.com/"
 }, {
@@ -353,7 +353,7 @@
 	"sign": "人脑太复杂,时间过得久,记下来才是最真实的……",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","杂录","随笔"],
+	"tags": ["生活","杂录","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.coolblood.cn/"
 }, {
@@ -404,7 +404,7 @@
 	"sign": "专注科技生活方式",
 	"sitemap": "https://www.smbinn.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["整合","数码","分享"],
+	"tags": ["技术","数码","整合","分享"],
 	"update_time": 1651600790154,
 	"url": "https://www.smbinn.com/"
 }, {
@@ -421,7 +421,7 @@
 	"sign": "心明若鏡，不將不迎",
 	"sitemap": "https://yingfeng.me/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术","教程","随笔"],
+	"tags": ["技术","教程","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://yingfeng.me/"
 }, {
@@ -438,7 +438,7 @@
 	"sign": "美好科技生活方式",
 	"sitemap": "https://www.lanka.cn/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活","科技","随笔"],
+	"tags": ["生活","科技","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.lanka.cn/"
 }, {
@@ -472,7 +472,7 @@
 	"sign": "个人向笔记性质技术分享，共产主义开源编程",
 	"sitemap": "https://www.ohyee.cc/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术","笔记","开发","随笔","Linux"],
+	"tags": ["技术","笔记","开发","杂谈","Linux"],
 	"update_time": 1651681858608,
 	"url": "https://www.ohyee.cc/"
 }, {
@@ -489,7 +489,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔","动漫"],
+	"tags": ["生活","杂谈","动漫"],
 	"update_time": 1651600790154,
 	"url": "https://xsui.com/"
 }, {
@@ -506,7 +506,7 @@
 	"sign": "寥寥数语，皆我心之所慨……",
 	"sitemap": "https://qifu.me/wp-sitemap-posts-post-1.xml",
 	"status": "OK",
-	"tags": ["生活","随笔","杂录"],
+	"tags": ["生活","杂谈","杂录"],
 	"update_time": 1651600790154,
 	"url": "https://qifu.me/"
 }, {
@@ -523,7 +523,7 @@
 	"sign": "一切过往，皆为序章。直挂云帆，乘风破浪。",
 	"sitemap": "https://www.yunfanch.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活","随笔","杂录","代码"],
+	"tags": ["生活","杂谈","杂录","代码"],
 	"update_time": 1651600790154,
 	"url": "https://yunfanch.com/"
 }, {
@@ -557,7 +557,7 @@
 	"sign": "万物皆虚，万事皆允",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","学习","随笔"],
+	"tags": ["生活","学习","杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://mubaix.github.io/"
 }, {
@@ -574,11 +574,11 @@
 	"sign": "Just another WordPress site",
 	"sitemap": "https://eqblog.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术","Python", "Apache", "C/C++", "MySQL"],
+	"tags": ["技术","python", "爬虫", "wordpress", "apache", "c/c++", "mysql", "前端", "nginx"],
 	"update_time": 1651600790154,
 	"url": "https://eqblog.com/"
 }, {
-	"arch": "WordPress",
+	"arch": "",
 	"enabled": true,
 	"feed": "",
 	"id": "7b06f121-d106-440f-a753-2e2729fdc68b",
@@ -591,7 +591,7 @@
 	"sign": "聆听小王子，守望成长，静待花开",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["综合","Python", "C/C++", "随笔"],
+	"tags": ["python", "c/c++", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.wanghao.me/blog.html"
 }, {
@@ -608,7 +608,7 @@
 	"sign": "记录生活的点点滴滴",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["技术","PHP", "杂录"],
+	"tags": ["nginx", "mac", "go", "mysql", "python", "git", "c/c++", "php", "asp"],
 	"update_time": 1651600790154,
 	"url": "https://www.lianglong.org/"
 }, {
@@ -625,7 +625,7 @@
 	"sign": "记录生活感悟、及用经济学视角解读社会",
 	"sitemap": "https://www.savouer.com/sitemap.xml",
 	"status": "ReadTimeout",
-	"tags": ["生活","随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.savouer.com/"
 }, {
@@ -642,7 +642,7 @@
 	"sign": "一个人的领地",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔","故事"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://wuse.ink/"
 }, {
@@ -659,7 +659,7 @@
 	"sign": "沧海一粟，微亮渺小一只虫。",
 	"sitemap": "https://feng.pub/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活","随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://feng.pub/"
 }, {
@@ -676,7 +676,7 @@
 	"sign": "迄今所有人生都大写着失败,但并不妨碍我继续向前！",
 	"sitemap": "https://www.duanxiansen.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["无法访问","生活","情感"],
+	"tags": ["生活", "情感"],
 	"update_time": 1651600790154,
 	"url": "https://www.duanxiansen.com/"
 }, {
@@ -693,7 +693,7 @@
 	"sign": "想要的都拥有，得不到的都释怀...",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://vian.top/"
 }, {
@@ -727,7 +727,7 @@
 	"sign": "等风来，希望雨别下",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活","随笔","日常"],
+	"tags": ["生活"],
 	"update_time": 1651600790154,
 	"url": "https://www.imxxz.cn/"
 }, {
@@ -744,7 +744,7 @@
 	"sign": "相逢的人会再相逢",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["综合", "随笔", "Js", "PHP", "C/C++"],
+	"tags": ["生活", "杂谈", "js", "php", "c/c++"],
 	"update_time": 1651600790154,
 	"url": "https://www.ihewro.com/"
 }, {
@@ -761,7 +761,7 @@
 	"sign": "傲天翔地，记录行走和折腾之路",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["综合", "随笔", "记录"],
+	"tags": ["生活", "杂谈", "技术"],
 	"update_time": 1651600790154,
 	"url": "https://aotxland.com/"
 }, {
@@ -778,7 +778,7 @@
 	"sign": "不为建站,只为折腾",
 	"sitemap": "https://shangjixin.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术", "前端", "日常", "Vue.js"],
+	"tags": ["前端", "生活", "vue.js"],
 	"update_time": 1651600790154,
 	"url": "https://shangjixin.com/"
 }, {
@@ -795,11 +795,11 @@
 	"sign": "原谅我凌乱的文字和那破碎的时光",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "PHP", "随笔"],
+	"tags": ["生活", "php", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://xinyu19.com/"
 }, {
-	"arch": "Typecho",
+	"arch": "",
 	"enabled": true,
 	"feed": "https://cjj.today/feed/",
 	"id": "5db54022-62b8-4289-9f4d-465498636a6b",
@@ -812,7 +812,7 @@
 	"sign": "迷失在狂风暴雨后",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["文章较少"],
+	"tags": [],
 	"update_time": 1651600790154,
 	"url": "https://cjj.today/"
 }, {
@@ -829,7 +829,7 @@
 	"sign": "记录生活,爱好学习,不爱折腾.",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["技术", "PHP", "容器", "Linux", "MySQL"],
+	"tags": ["php", "容器", "linux", "mysql"],
 	"update_time": 1651600790154,
 	"url": "https://www.jinjun.top/"
 }, {
@@ -846,7 +846,7 @@
 	"sign": "走散的人再也不相逢",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["非原创", "随笔", "开发"],
+	"tags": ["杂谈", "开发"],
 	"update_time": 1651600790154,
 	"url": "https://www.sunjiwen.com/"
 }, {
@@ -863,7 +863,7 @@
 	"sign": "物理让思维生活更精彩！",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["知识","物理","地理"],
+	"tags": ["物理", "地理"],
 	"update_time": 1651600790154,
 	"url": "https://www.xujilong.cn/"
 }, {
@@ -880,7 +880,7 @@
 	"sign": "关门... 放狗！-「训犬者洛克希」",
 	"sitemap": "https://www.zrahh.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活","随笔","笔记"],
+	"tags": ["杂谈", "笔记"],
 	"update_time": 1651600790154,
 	"url": "https://www.zrahh.com/"
 }, {
@@ -897,7 +897,7 @@
 	"sign": "我要与你坦诚相见",
 	"sitemap": "https://blog.imalan.cn/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "随笔", "硬件"],
+	"tags": ["生活", "杂谈", "硬件"],
 	"update_time": 1651600790154,
 	"url": "https://blog.imalan.cn/"
 }, {
@@ -914,7 +914,7 @@
 	"sign": "笔记与碎碎念",
 	"sitemap": "",
 	"status": "ConnectionError",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://taoxinhao.cn/"
 }, {
@@ -931,7 +931,7 @@
 	"sign": "恰沐春风共同游，终只叹，木已舟。",
 	"sitemap": "https://www.moerats.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["整合","分享","推荐"],
+	"tags": ["分享", "推荐"],
 	"update_time": 1651600790154,
 	"url": "https://www.moerats.com/"
 }, {
@@ -948,7 +948,7 @@
 	"sign": "生命不息，吾将折腾不止。",
 	"sitemap": "https://www.xiaoz.me/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术", "推荐", "测评", "分享"],
+	"tags": ["推荐", "测评"],
 	"update_time": 1651600790154,
 	"url": "https://www.xiaoz.me/"
 }, {
@@ -965,7 +965,7 @@
 	"sign": "连朝溪雨溢荷塘，流水倾银万叶香",
 	"sitemap": "",
 	"status": "404",
-	"tags": ["技术","Vue.js", "微信小程序"],
+	"tags": ["vue.js", "微信小程序"],
 	"update_time": 1651600790154,
 	"url": "http://www.tianshan277.com/"
 }, {
@@ -982,7 +982,7 @@
 	"sign": "关注前沿技术,WordPress,大前端相关资讯,写代码,聊人生的一个地方",
 	"sitemap": "https://www.noxxxx.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术", "前端", "Node.js", "Linux"],
+	"tags": ["前端", "node.js", "linux"],
 	"update_time": 1651600790154,
 	"url": "https://www.noxxxx.com/"
 }, {
@@ -999,7 +999,7 @@
 	"sign": "挖掘建站的乐趣",
 	"sitemap": "https://wzfou.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术", "VPS", "分享", "测评", "建站"],
+	"tags": ["vps", "分享", "测评", "建站"],
 	"update_time": 1651600790154,
 	"url": "https://wzfou.com/"
 }, {
@@ -1016,7 +1016,7 @@
 	"sign": "绿色软件与IT资源分享",
 	"sitemap": "https://www.cmsky.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["整合", "分享"],
+	"tags": ["分享"],
 	"update_time": 1651600790154,
 	"url": "https://www.cmsky.com/"
 }, {
@@ -1033,7 +1033,7 @@
 	"sign": "纵有疾风起，人生不言弃。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["技术", "投资", "Linux"],
+	"tags": ["投资", "理财", "linux"],
 	"update_time": 1651600790154,
 	"url": "https://zxx.im/"
 }, {
@@ -1050,7 +1050,7 @@
 	"sign": "以大道为宗，以天地为依，以圣人为师，以经文为学。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "文学", "阅读", "随笔", "笔记"],
+	"tags": ["文学", "阅读", "杂谈", "笔记"],
 	"update_time": 1651600790154,
 	"url": "https://www.zdaoxb.com/"
 }, {
@@ -1067,7 +1067,7 @@
 	"sign": "生活的意义就是陪伴！",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://na.ci/"
 }, {
@@ -1084,7 +1084,7 @@
 	"sign": "立云图志，周遭故事。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "摄影", "简记"],
+	"tags": ["摄影", "生活"],
 	"update_time": 1651600790154,
 	"url": "http://www.lopwon.com/"
 }, {
@@ -1101,7 +1101,7 @@
 	"sign": "遇见每一个孩子的成长",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["随笔", "语文"],
 	"update_time": 1651600790154,
 	"url": "https://manman.qian.lu/"
 }, {
@@ -1118,7 +1118,7 @@
 	"sign": "走进青萌-你将占领年轻！",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["随笔"],
 	"update_time": 1651600790154,
 	"url": "https://zzbapp.com/"
 }, {
@@ -1135,7 +1135,7 @@
 	"sign": "世事洞明皆学问，人情练达即文章。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "分享", "记录", "旅游"],
+	"tags": ["生活", "分享", "记录", "记事", "旅游"],
 	"update_time": 1651600790154,
 	"url": "https://www.shephe.com/"
 }, {
@@ -1152,7 +1152,7 @@
 	"sign": "主要分享自己的生活故事,对世间百态的简单看法,同时分享简单好玩的新奇玩意,分享生活与你的美。",
 	"sitemap": "https://www.huhexian.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["技术", "JS"],
+	"tags": ["js", "wordpress", "emlog", "技术"],
 	"update_time": 1651600790154,
 	"url": "https://www.huhexian.com/"
 }, {
@@ -1169,7 +1169,7 @@
 	"sign": "",
 	"sitemap": "https://chujian.xyz/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈", "随笔"],
 	"update_time": 1651600790154,
 	"url": "https://chujian.xyz/"
 }, {
@@ -1186,7 +1186,7 @@
 	"sign": "书已逝时光，忆旧日往事",
 	"sitemap": "https://yiws.net/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "记录", "随笔"],
+	"tags": ["生活", "记事", "记录", "随笔"],
 	"update_time": 1651600790154,
 	"url": "https://yiws.net/"
 }, {
@@ -1203,7 +1203,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "记录", "随笔"],
+	"tags": ["记事", "记录", "生活", "杂谈", "图片"],
 	"update_time": 1651600790154,
 	"url": "https://www.nice.im/"
 }, {
@@ -1220,11 +1220,11 @@
 	"sign": "尺宅足自庇，寸田有余畦。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "文学", "阅读", "随笔"],
+	"tags": ["文学", "阅读", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "http://www.qncd.com/"
 }, {
-	"arch": "WordPress",
+	"arch": "",
 	"enabled": true,
 	"feed": "https://boke.one/feed",
 	"id": "d4c1a006-476f-41b9-8f3b-772d94adb61c",
@@ -1237,7 +1237,7 @@
 	"sign": "我的折腾笔记",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["综合", "Python", "建站"],
+	"tags": ["python", "建站"],
 	"update_time": 1651600790154,
 	"url": "https://boke.one/"
 }, {
@@ -1254,11 +1254,11 @@
 	"sign": "日暮聊为梁父吟，花径不曾缘客扫。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "记录", "随笔"],
+	"tags": ["生活", "记事", "记录"],
 	"update_time": 1651600790154,
 	"url": "http://www.winature.com/"
 }, {
-	"arch": "PJBlog",
+	"arch": "",
 	"enabled": true,
 	"feed": "http://www.yezaifei.com/www.yezaifei.com/feed.asp",
 	"id": "c6d1ff36-74ae-46f2-a6c8-e311d5975873",
@@ -1271,7 +1271,7 @@
 	"sign": "时光，旅程，诗酒茶",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "记录", "随笔"],
+	"tags": ["生活", "记事", "记录", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "http://www.yezaifei.com/"
 }, {
@@ -1288,7 +1288,7 @@
 	"sign": "把握现在,拥抱未来",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "记录", "随笔"],
+	"tags": ["生活", "记事", "记录"],
 	"update_time": 1651600790154,
 	"url": "http://www.izhuyue.com/"
 }, {
@@ -1305,7 +1305,7 @@
 	"sign": "突然间他无法解释地迷上了这座古都。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "文章较少", "随笔", "记录"],
+	"tags": ["生活", "杂谈", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://qingruoli.com/"
 }, {
@@ -1322,7 +1322,7 @@
 	"sign": "I try to make it simple!",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["无法访问"],
+	"tags": ["软路由"],
 	"update_time": 1651600790154,
 	"url": "https://www.jinbo123.com/"
 }, {
@@ -1339,7 +1339,7 @@
 	"sign": "万里归来仍少年，此心安处是吾乡。",
 	"sitemap": "",
 	"status": "SSLError",
-	"tags": ["生活", "记录"],
+	"tags": ["生活", "记事", "记录", "杂记"],
 	"update_time": 1651600790154,
 	"url": "https://qfsyj.com/"
 }, {
@@ -1356,7 +1356,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "历史", "随笔", "新闻", "观影"],
+	"tags": ["历史", "杂谈", "新闻", "推荐", "观影"],
 	"update_time": 1651600790154,
 	"url": "http://stuit.cn/"
 }, {
@@ -1373,7 +1373,7 @@
 	"sign": "守望生活, 审视自我,宁静雅致的小轩馆.",
 	"sitemap": "https://www.watch-life.net/sitemap.xml",
 	"status": "OK",
-	"tags": ["综合", "小程序", "记录"],
+	"tags": ["小程序", "技术", "生活", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://www.watch-life.net/"
 }, {
@@ -1390,7 +1390,7 @@
 	"sign": "只需看着别人精彩，老天对你另有安排。",
 	"sitemap": "https://www.chener.net/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "记录", "随笔"],
+	"tags": ["生活", "记事", "记录", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.chener.net/"
 }, {
@@ -1407,11 +1407,11 @@
 	"sign": "器材党广角狗，博物馆爱好者，旅游点打卡员",
 	"sitemap": "https://synyan.cn/wp-sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "摄影", "旅游"],
+	"tags": ["摄影", "旅游"],
 	"update_time": 1651600790154,
 	"url": "https://synyan.cn/"
 }, {
-	"arch": "WordPress",
+	"arch": "",
 	"enabled": true,
 	"feed": "http://www.xlanda.net/feed",
 	"id": "fd85042e-f902-4635-b8ff-5ca943d123e5",
@@ -1424,7 +1424,7 @@
 	"sign": "我天地，我胡来",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "记录"],
+	"tags": ["生活", "记事", "记录"],
 	"update_time": 1651600790154,
 	"url": "http://www.xlanda.net/"
 }, {
@@ -1441,7 +1441,7 @@
 	"sign": "春梦不觉已流年，继续风雨兼程",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "数码", "记录"],
+	"tags": ["数码", "生活", "记事", "记录"],
 	"update_time": 1651600790154,
 	"url": "https://ezo.biz/"
 }, {
@@ -1509,7 +1509,7 @@
 	"sign": "不与偏见和痼习为伍",
 	"sitemap": "https://fxpai.com/wp-sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://fxpai.com/"
 }, {
@@ -1543,7 +1543,7 @@
 	"sign": "想念童年美好时光，想念难忘的学生时代，想念初恋的感觉",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "记事", "记录", "随笔"],
+	"tags": ["生活", "记事", "记录", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://ltmltm.cn/bk/"
 }, {
@@ -1560,7 +1560,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["ui", "生活", "记事", "随笔"],
+	"tags": ["ui", "生活", "记事", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://blog.cnbang.net/"
 }, {
@@ -1577,7 +1577,7 @@
 	"sign": "记录、生活、思考",
 	"sitemap": "https://chidd.net/sitemap.xml",
 	"status": "ConnectTimeout",
-	"tags": ["生活", "随笔", "记事", "图片"],
+	"tags": ["生活", "杂谈", "记事", "图片"],
 	"update_time": 1651600790154,
 	"url": "https://chidd.net/"
 }, {
@@ -1594,7 +1594,7 @@
 	"sign": "任抛星汉归园圃，留取乾坤盛酒囊",
 	"sitemap": "https://hutusi.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "随笔", "记事"],
+	"tags": ["生活", "杂谈", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://hutusi.com/"
 }, {
@@ -1611,7 +1611,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔", "生活", "推荐"],
+	"tags": ["杂谈", "生活", "推荐"],
 	"update_time": 1651600790154,
 	"url": "https://hijoe.net/"
 }, {
@@ -1645,7 +1645,7 @@
 	"sign": "",
 	"sitemap": "https://bwskyer.com/sitemap.xml",
 	"status": "ConnectTimeout",
-	"tags": ["生活", "记事", "随笔", "资讯", "wordpress"],
+	"tags": ["生活", "记事", "杂谈", "资讯", "wordpress"],
 	"update_time": 1651600790154,
 	"url": "https://bwskyer.com/"
 }, {
@@ -1747,7 +1747,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "记事", "记录", "随笔"],
+	"tags": ["生活", "记事", "记录", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "http://www.winegrower.cn/"
 }, {
@@ -1781,7 +1781,7 @@
 	"sign": "专注最时髦的web开发技术",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["react", "http", "js", "随笔", "git"],
+	"tags": ["react", "http", "js", "杂谈", "git"],
 	"update_time": 1651600790154,
 	"url": "https://justjavac.com/"
 }, {
@@ -1815,7 +1815,7 @@
 	"sign": "专注WEB端开发",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔", "js", "技术"],
+	"tags": ["杂谈", "js", "技术"],
 	"update_time": 1651600790154,
 	"url": "https://imququ.com/"
 }, {
@@ -1866,7 +1866,7 @@
 	"sign": "因为喜欢所以折腾...无折腾不铁血！",
 	"sitemap": "https://zww.me/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "随笔", "记事", "记录", "数码"],
+	"tags": ["生活", "杂谈", "记事", "记录", "数码"],
 	"update_time": 1651600790154,
 	"url": "https://zww.me/"
 }, {
@@ -1900,7 +1900,7 @@
 	"sign": "",
 	"sitemap": "https://huiris.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["文学", "阅读", "生活", "随笔"],
+	"tags": ["文学", "阅读", "生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://huiris.com/"
 }, {
@@ -2002,7 +2002,7 @@
 	"sign": "学习•分享•创造",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔", "wordpress"],
+	"tags": ["生活", "杂谈", "wordpress"],
 	"update_time": 1651600790154,
 	"url": "https://www.syshut.com/"
 }, {
@@ -2070,7 +2070,7 @@
 	"sign": "感谢你一直都在",
 	"sitemap": "https://wanbk.net/wp-sitemap.xml",
 	"status": "SSLError",
-	"tags": ["生活", "随笔", "记事"],
+	"tags": ["生活", "杂谈", "记事"],
 	"update_time": 1651600790154,
 	"url": "https://wanbk.net/"
 }, {
@@ -2104,7 +2104,7 @@
 	"sign": "一个php程序员的个人博客",
 	"sitemap": "https://www.80shihua.com/sitemap.xml",
 	"status": "OK",
-	"tags": ["php", "mysql", "linux", "python", "js", "随笔", "技术"],
+	"tags": ["php", "mysql", "linux", "python", "js", "杂谈", "技术"],
 	"update_time": 1651600790154,
 	"url": "https://www.80shihua.com/"
 }, {
@@ -2138,7 +2138,7 @@
 	"sign": "不忘初心 方得始终 初心易得 始终难守",
 	"sitemap": "http://www.zuijh.net/blog/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "http://www.zuijh.net/blog/"
 }, {
@@ -2189,7 +2189,7 @@
 	"sign": "山高人为峰",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["access", "生活", "随笔", "互联网"],
+	"tags": ["access", "生活", "杂谈", "互联网"],
 	"update_time": 1651600790154,
 	"url": "https://www.ad-s.cn/"
 }, {
@@ -3685,7 +3685,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔", "生活", "计算机", "c/c++", "java"],
+	"tags": ["杂谈", "生活", "计算机", "c/c++", "java"],
 	"update_time": 1653139501382,
 	"url": "https://www.yinwang.org/"
 }, {
@@ -5062,7 +5062,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["js", "生活", "随笔", "vue.js"],
+	"tags": ["js", "生活", "杂谈", "vue.js"],
 	"update_time": 1651600790154,
 	"url": "https://ssshooter.com/"
 }, {
@@ -5079,7 +5079,7 @@
 	"sign": "用来记录LeeCode刷题过程和心得，以及构建大前端知识体系",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://lucifer.ren/blog/"
 }, {
@@ -5096,7 +5096,7 @@
 	"sign": "A Base for Secreting and Running at Night",
 	"sitemap": "https://jyzhu.top/sitemap.xml",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://jyzhu.top/"
 }, {
@@ -5147,7 +5147,7 @@
 	"sign": "又一个坑爹的神站 大人說：要清爽 要低調",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1654997692856,
 	"url": "https://xsky.me/"
 }, {
@@ -5198,7 +5198,7 @@
 	"sign": "Codes Speak Louder than Words.",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://claude-ray.com/"
 }, {
@@ -6762,7 +6762,7 @@
 	"sign": "迷失的人迷失了，相逢的人会再相逢",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔", "分享"],
+	"tags": ["杂谈", "分享"],
 	"update_time": 1651600790154,
 	"url": "https://www.fllv.cn/"
 }, {
@@ -6779,7 +6779,7 @@
 	"sign": "和光同尘，与时舒卷",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["分享", "随笔"],
+	"tags": ["分享", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://tumutanzi.com/"
 }, {
@@ -6881,7 +6881,7 @@
 	"sign": "我写过最短的情诗，是你的名字",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.poploli.com/"
 }, {
@@ -6898,7 +6898,7 @@
 	"sign": "迎着风，拥抱彩虹！",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["笔记", "随笔"],
+	"tags": ["笔记", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://ioxray.com/"
 }, {
@@ -6983,7 +6983,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["linux", "ubuntu", "群晖", "随笔"],
+	"tags": ["linux", "ubuntu", "群晖", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.cxmoe.com/"
 }, {
@@ -7051,7 +7051,7 @@
 	"sign": "一个Emacs爱好者的闲言碎语",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔", "随笔", "emacs", "科学研究"],
+	"tags": ["随笔", "杂谈", "emacs", "科学研究"],
 	"update_time": 1651600790154,
 	"url": "https://chriszheng.science/"
 }, {
@@ -7102,7 +7102,7 @@
 	"sign": "承蒙遇见，三生有幸",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["笔记", "随笔"],
+	"tags": ["笔记", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.iysheng.com/"
 }, {
@@ -7136,7 +7136,7 @@
 	"sign": "——放逐茫茫人海里，常常会有这样的陌路擦肩。某一个人走进你的视线里，成了令你心动的风景，而他却不知道这世界上有过一个你。又或许，你落入别人的风景里，却不知道，这世上曾经有过一个他。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "笔记", "随笔"],
+	"tags": ["生活", "笔记", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://cat.dorcandy.cn/"
 }, {
@@ -7170,7 +7170,7 @@
 	"sign": "学文科的艺术生",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔", "随笔"],
+	"tags": ["杂谈", "随笔"],
 	"update_time": 1651600790154,
 	"url": "https://www.xiaofm.cn/"
 }, {
@@ -7187,7 +7187,7 @@
 	"sign": "天与短因缘，聚散常容易。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔", "笔记"],
+	"tags": ["杂谈", "笔记"],
 	"update_time": 1651600790154,
 	"url": "https://www.huihuanx.cn/"
 }, {
@@ -7442,7 +7442,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔", "杂记"],
+	"tags": ["生活", "杂谈", "杂记"],
 	"update_time": 1651600790154,
 	"url": "https://www.lixuejiang.com"
 }, {
@@ -8343,7 +8343,7 @@
 	"sign": "遗憾千万种 各人皆不同",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://www.hedalao.com/"
 }, {
@@ -9669,7 +9669,7 @@
 	"sign": "peachRL就是个普通的网名，博主我就是个普通的桃子，粉嫩嫩毛绒绒那种。",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["生活", "随笔", "科研", "技术", "lammps"],
+	"tags": ["生活", "杂谈", "科研", "技术", "lammps"],
 	"update_time": 1651600790154,
 	"url": "https://wanyijizi.com/"
 }, {
@@ -10723,7 +10723,7 @@
 	"sign": "Redish101的小站",
 	"sitemap": "https://blog.redish101.top/sitemap.xml",
 	"status": "ReadTimeout",
-	"tags": ["python", "随笔", "建站", "应用推荐", "开发", "教程", "技术", "笔记", "博客", "react", "axios", "c/c++", "薅羊毛", "next.js", "计算机"],
+	"tags": ["python", "杂谈", "建站", "应用推荐", "开发", "教程", "技术", "笔记", "博客", "react", "axios", "c/c++", "薅羊毛", "next.js", "计算机"],
 	"update_time": 1654591646948,
 	"url": "https://blog.redish101.top/"
 }, {
@@ -12270,7 +12270,7 @@
 	"sign": "记录下自己学习的点滴",
 	"sitemap": "",
 	"status": "OK",
-	"tags": ["随笔"],
+	"tags": ["杂谈"],
 	"update_time": 1654997491970,
 	"url": "https://blog.devtang.com/"
 }, {
@@ -23592,7 +23592,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["python", "c/c++", "php", "随笔"],
+	"tags": ["python", "c/c++", "php", "杂谈"],
 	"update_time": 1651600790154,
 	"url": "https://blog.dreace.top/"
 }, {
@@ -24068,7 +24068,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1651817183738,
 	"url": "https://cuihuaer.me/"
 }, {
@@ -24442,7 +24442,7 @@
 	"sign": "多大点事，再输再试，再试再输，输好看点。",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["随笔", "杂记", "生活", "阅读"],
+	"tags": ["杂谈", "杂记", "生活", "阅读"],
 	"update_time": 1651600790154,
 	"url": "https://wangpei.net/"
 }, {
@@ -24884,7 +24884,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["生活", "随笔", "情感"],
+	"tags": ["生活", "杂谈", "情感"],
 	"update_time": 1652844066302,
 	"url": "https://www.rmolives.cn/"
 }, {
@@ -24918,7 +24918,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["随笔", "教程"],
+	"tags": ["杂谈", "教程"],
 	"update_time": 1652847949959,
 	"url": "https://hanximeng.com/"
 }, {
@@ -25105,7 +25105,7 @@
 	"sign": "梦中做梦,做了个白日梦",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["随笔", "技术"],
+	"tags": ["杂谈", "技术"],
 	"update_time": 1651600790154,
 	"url": "https://blog.slqwq.cn"
 }, {
@@ -25598,7 +25598,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["生活", "随笔", "回忆"],
+	"tags": ["生活", "杂谈", "回忆"],
 	"update_time": 1653007684753,
 	"url": "https://maxwuhan.com/"
 }, {
@@ -25615,7 +25615,7 @@
 	"sign": "",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1653007896562,
 	"url": "https://www.gouhua.cc/"
 }, {
@@ -26074,7 +26074,7 @@
 	"sign": "一个普通发学生的博客",
 	"sitemap": "https://yzyyz.top/sitemap.xml",
 	"status": "unknown",
-	"tags": ["python", "生活", "随笔", "回忆", "教程", "爬虫", "情感", "随笔"],
+	"tags": ["python", "生活", "杂谈", "回忆", "教程", "爬虫", "情感", "随笔"],
 	"update_time": 1652844012195,
 	"url": "https://yzyyz.top/"
 }, {
@@ -26397,7 +26397,7 @@
 	"sign": "A NOTION BLOG",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["生活", "随笔", "杂记"],
+	"tags": ["生活", "杂谈", "杂记"],
 	"update_time": 1655603494812,
 	"url": "https://blog.davidweng.tk/"
 }, {
@@ -26703,7 +26703,7 @@
 	"sign": "一个什么都想做却做不完的笨蛋~",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["教程", "分享", "typecho", "博客", "随笔"],
+	"tags": ["教程", "分享", "typecho", "博客", "杂谈"],
 	"update_time": 1653115072517,
 	"url": "https://blog.wlr.lol"
 }, {
@@ -27332,7 +27332,7 @@
 	"sign": "一个小电工杂七杂八的分享",
 	"sitemap": "https://www.gtneo.com/sitemap.xml",
 	"status": "unknown",
-	"tags": ["随笔", "生活"],
+	"tags": ["杂谈", "生活"],
 	"update_time": 1653114586902,
 	"url": "https://www.gtneo.com/"
 }, {
@@ -27485,7 +27485,7 @@
 	"sign": "易语言源码分享",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["随笔", "易语言"],
+	"tags": ["杂谈", "易语言"],
 	"update_time": 1653946479774,
 	"url": "https://blogchy.vercel.app/"
 }, {
@@ -27519,7 +27519,7 @@
 	"sign": "joojen个人全网文章总站",
 	"sitemap": "https://joojen.com/sitemap.xml",
 	"status": "unknown",
-	"tags": ["随笔", "生活"],
+	"tags": ["杂谈", "生活"],
 	"update_time": 1654328551331,
 	"url": "https://joojen.com/"
 }, {
@@ -27825,7 +27825,7 @@
 	"sign": "广东人，但不是什么都吃。",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["生活", "随笔"],
+	"tags": ["生活", "杂谈"],
 	"update_time": 1654875697025,
 	"url": "https://www.osgz.com/"
 }, {
@@ -27961,7 +27961,7 @@
 	"sign": "TyrantG的心智备份",
 	"sitemap": "",
 	"status": "unknown",
-	"tags": ["博客", "随笔", "web", "技术"],
+	"tags": ["博客", "杂谈", "web", "技术"],
 	"update_time": 1655996175830,
 	"url": "https://www.tyrantg.com"
 }, {
@@ -28029,7 +28029,7 @@
 	"sign": "Don't repeat yourself",
 	"sitemap": "https://gahotx.cn/sitemap.xml",
 	"status": "unknown",
-	"tags": ["前端", "生活", "随笔", "html", "css", "hexo", "web"],
+	"tags": ["前端", "生活", "杂谈", "html", "css", "hexo", "web"],
 	"update_time": 1656215809119,
 	"url": "https://gahotx.cn/"
 }, {
