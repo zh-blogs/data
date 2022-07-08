@@ -1481,27 +1481,6 @@
         "url": "https://www.shephe.com/"
     },
     {
-        "arch": "WordPress",
-        "enabled": true,
-        "feed": "https://www.huhexian.com/feed/",
-        "id": "45c60c0a-fc42-4a8e-9e1b-d1c1afe20009",
-        "idx": 68,
-        "join_time": 1651600790154,
-        "name": "青山绿水-胡和先的个人博客",
-        "recommend": false,
-        "repeat": false,
-        "saveweb_id": "",
-        "sign": "主要分享自己的生活故事,对世间百态的简单看法,同时分享简单好玩的新奇玩意,分享生活与你的美。",
-        "sitemap": "https://www.huhexian.com/sitemap.xml",
-        "status": "OK",
-        "tags": [
-            "技术",
-            "JS"
-        ],
-        "update_time": 1651600790154,
-        "url": "https://www.huhexian.com/"
-    },
-    {
         "arch": "Typecho",
         "enabled": true,
         "feed": "https://chujian.xyz/feed/",
