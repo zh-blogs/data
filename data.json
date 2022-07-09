@@ -30841,7 +30841,11 @@
         "sign": "",
         "sitemap": "https://dev-coco.github.io/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "Linux",
+            "软件"
+        ],
         "update_time": 1654933529471,
         "url": "https://dev-coco.github.io/"
     },
@@ -30860,10 +30864,9 @@
         "sitemap": null,
         "status": "unknown",
         "tags": [
-            "网络",
             "生活",
-            "记事",
-            "摄影"
+            "随笔",
+            "游戏"
         ],
         "update_time": 1655605117566,
         "url": "https://www.geeklab.work/"
@@ -30882,7 +30885,11 @@
         "sign": "My Blog, hahaha",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "学习",
+            "Python"
+        ],
         "update_time": 1655605439568,
         "url": "https://yuictwo.github.io/"
     },
@@ -30901,11 +30908,8 @@
         "sitemap": "https://lonelyuan.github.io/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "综合",
-            "笔记",
-            "学习",
-            "经验",
-            "知识"
+            "生活",
+            "随笔"
         ],
         "update_time": 1655605492200,
         "url": "https://lonelyuan.github.io/"
@@ -30925,9 +30929,7 @@
         "sitemap": null,
         "status": "unknown",
         "tags": [
-            "技术",
-            "杂录",
-            "随笔",
+            "生活",
             "经验",
             "学习"
         ],
@@ -30949,11 +30951,9 @@
         "sitemap": null,
         "status": "unknown",
         "tags": [
-            "综合",
-            "随笔",
-            "系统",
             "技术",
-            "杂录"
+            "随笔",
+            "软件推荐"
         ],
         "update_time": 1655996175830,
         "url": "https://www.tyrantg.com"
