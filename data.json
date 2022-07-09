@@ -30900,7 +30900,13 @@
         "sign": "不要恐慌 | Don't Panic",
         "sitemap": "https://lonelyuan.github.io/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "综合",
+            "笔记",
+            "学习",
+            "经验",
+            "知识"
+        ],
         "update_time": 1655605492200,
         "url": "https://lonelyuan.github.io/"
     },
@@ -30918,7 +30924,13 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "杂录",
+            "随笔",
+            "经验",
+            "学习"
+        ],
         "update_time": 1655605547738,
         "url": "https://rw1nd.github.io/"
     },
@@ -30937,10 +30949,11 @@
         "sitemap": null,
         "status": "unknown",
         "tags": [
-            "博客",
+            "综合",
             "随笔",
-            "web",
-            "技术"
+            "系统",
+            "技术",
+            "杂录"
         ],
         "update_time": 1655996175830,
         "url": "https://www.tyrantg.com"
@@ -30960,8 +30973,9 @@
         "sitemap": "https://caixw.io/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "golang",
-            "开发"
+            "技术",
+            "开发",
+            "GO"
         ],
         "update_time": 1655996179584,
         "url": "https://caixw.io"
@@ -30981,17 +30995,9 @@
         "sitemap": "https://www.loquy.cn/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "hexo",
-            "java",
-            "生活",
-            "php",
-            "leetcode",
-            "开发",
             "技术",
-            "分享",
-            "阅读",
-            "记录",
-            "互联网"
+            "前端",
+            "PHP"
         ],
         "update_time": 1655996182649,
         "url": "https://www.loquy.cn"
@@ -31011,9 +31017,10 @@
         "sitemap": "https://blog.dsrkafuu.net/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "生活",
-            "科技",
-            "前端"
+            "技术",
+            "前端",
+            "笔记",
+            "学习"
         ],
         "update_time": 1656215803257,
         "url": "https://blog.dsrkafuu.net/"
@@ -31033,13 +31040,10 @@
         "sitemap": "https://gahotx.cn/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "前端",
             "生活",
             "随笔",
-            "html",
-            "css",
-            "hexo",
-            "web"
+            "前端",
+            "经验"
         ],
         "update_time": 1656215809119,
         "url": "https://gahotx.cn/"
@@ -31061,7 +31065,8 @@
         "tags": [
             "技术",
             "前端",
-            "linux"
+            "后端",
+            "学习"
         ],
         "update_time": 1656215813690,
         "url": "https://docs.shanyuhai.top/"
@@ -31080,7 +31085,11 @@
         "sign": "",
         "sitemap": "https://blog.yidaozhan.top/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "游戏",
+            "杂录"
+        ],
         "update_time": 1656316310123,
         "url": "https://blog.yidaozhan.top/"
     },
@@ -31099,8 +31108,9 @@
         "sitemap": "https://www.shibuyu.fun/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "学习",
-            "python"
+            "技术",
+            "Python",
+            "软件测试"
         ],
         "update_time": 1656472562391,
         "url": "https://www.shibuyu.fun/"
