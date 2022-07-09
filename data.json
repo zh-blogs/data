@@ -30975,7 +30975,6 @@
         "tags": [
             "技术",
             "开发",
-            "前端",
             "GO"
         ],
         "update_time": 1655996179584,
@@ -30998,9 +30997,7 @@
         "tags": [
             "技术",
             "前端",
-            "后端",
-            "学习",
-            "经验"
+            "PHP"
         ],
         "update_time": 1655996182649,
         "url": "https://www.loquy.cn"
@@ -31021,7 +31018,6 @@
         "status": "unknown",
         "tags": [
             "技术",
-            "科技",
             "前端",
             "笔记",
             "学习"
@@ -31044,11 +31040,10 @@
         "sitemap": "https://gahotx.cn/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "综合",
+            "生活",
             "随笔",
             "前端",
-            "经验",
-            "学习"
+            "经验"
         ],
         "update_time": 1656215809119,
         "url": "https://gahotx.cn/"
@@ -31070,7 +31065,6 @@
         "tags": [
             "技术",
             "前端",
-            "Linux",
             "后端",
             "学习"
         ],
@@ -31092,11 +31086,9 @@
         "sitemap": "https://blog.yidaozhan.top/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "综合",
+            "生活",
             "游戏",
-            "Linux",
-            "杂录",
-            "网络"
+            "杂录"
         ],
         "update_time": 1656316310123,
         "url": "https://blog.yidaozhan.top/"
@@ -31117,9 +31109,8 @@
         "status": "unknown",
         "tags": [
             "技术",
-            "python",
-            "科技",
-            "测试"
+            "Python",
+            "软件测试"
         ],
         "update_time": 1656472562391,
         "url": "https://www.shibuyu.fun/"
