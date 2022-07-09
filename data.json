@@ -30882,7 +30882,11 @@
         "sign": "My Blog, hahaha",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "随笔",
+            "学习"
+        ],
         "update_time": 1655605439568,
         "url": "https://yuictwo.github.io/"
     },
@@ -30901,11 +30905,9 @@
         "sitemap": "https://lonelyuan.github.io/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "综合",
+            "技术",
             "笔记",
-            "学习",
-            "经验",
-            "知识"
+            "经验"
         ],
         "update_time": 1655605492200,
         "url": "https://lonelyuan.github.io/"
@@ -30926,8 +30928,6 @@
         "status": "unknown",
         "tags": [
             "技术",
-            "杂录",
-            "随笔",
             "经验",
             "学习"
         ],
@@ -30949,11 +30949,9 @@
         "sitemap": null,
         "status": "unknown",
         "tags": [
-            "综合",
-            "随笔",
-            "系统",
             "技术",
-            "杂录"
+            "随笔",
+            "软件推荐"
         ],
         "update_time": 1655996175830,
         "url": "https://www.tyrantg.com"
