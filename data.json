@@ -30600,7 +30600,11 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "笔记",
+            "学习"
+        ],
         "update_time": 1654393750554,
         "url": "https://zilinn.wang/"
     },
