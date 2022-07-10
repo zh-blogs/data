@@ -1868,6 +1868,7 @@
         "sitemap": "https://maie.name/sitemap.xml",
         "status": "OK",
         "tags": [
+            "生活",
             "摄影",
             "旅游"
         ],
@@ -1889,9 +1890,8 @@
         "sitemap": "https://shanglei.net/sitemap.xml",
         "status": "OK",
         "tags": [
-            "logseq",
             "生活",
-            "记事"
+            "记录"
         ],
         "update_time": 1651600790154,
         "url": "https://shanglei.net/"
@@ -1911,8 +1911,8 @@
         "sitemap": "https://www.munue.com/sitemap.xml",
         "status": "OK",
         "tags": [
-            "wordpress",
-            "互联网",
+            "综合",
+            "网络",
             "资讯"
         ],
         "update_time": 1651600790154,
