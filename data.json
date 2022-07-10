@@ -30618,7 +30618,11 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "笔记",
+            "学习"
+        ],
         "update_time": 1654393800289,
         "url": "https://myblog.wallleap.cn/"
     },
@@ -30636,7 +30640,10 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "记录"
+        ],
         "update_time": 1654393898178,
         "url": "https://me.ursb.me/"
     },
@@ -30654,7 +30661,10 @@
         "sign": "枪在手，跟我走，前端路上不回头",
         "sitemap": "https://refined-x.com/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "前端"
+        ],
         "update_time": 1654393968627,
         "url": "https://refined-x.com/"
     },
@@ -30673,7 +30683,8 @@
         "sitemap": "https://allanware.github.io/zh/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "生活"
+            "生活",
+            "记录"
         ],
         "update_time": 1656472600488,
         "url": "https://allanware.github.io/zh/"
@@ -30692,7 +30703,9 @@
         "sign": "",
         "sitemap": "https://www.dreamofice.cn/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "文章较少"
+        ],
         "update_time": 1654394111562,
         "url": "https://www.dreamofice.cn"
     },
@@ -30711,13 +30724,7 @@
         "sitemap": "https://www.seeseeme.cn/baidusitemap.xml",
         "status": "unknown",
         "tags": [
-            "生活",
-            "音乐",
-            "记事",
-            "文学",
-            "技术",
-            "软路由",
-            "群晖"
+            "文章较少"
         ],
         "update_time": 1654875688358,
         "url": "https://www.seeseeme.cn/"
@@ -30736,7 +30743,9 @@
         "sign": "",
         "sitemap": "https://garyblog.vercel.app/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "文章较少"
+        ],
         "update_time": 1654590969674,
         "url": "https://garyblog.vercel.app/"
     },
@@ -30755,9 +30764,9 @@
         "sitemap": "https://www.kaitaku.xyz/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "python",
-            "go",
-            "技术"
+            "技术",
+            "Python",
+            "Go"
         ],
         "update_time": 1654875692826,
         "url": "https://www.kaitaku.xyz/"
@@ -30778,7 +30787,7 @@
         "status": "unknown",
         "tags": [
             "生活",
-            "随笔"
+            "记录"
         ],
         "update_time": 1654875697025,
         "url": "https://www.osgz.com/"
@@ -30798,13 +30807,8 @@
         "sitemap": "https://blog.feizhuqwq.com/baidusitemap.xml",
         "status": "unknown",
         "tags": [
-            "应用推荐",
-            "教程",
-            "博客",
-            "html5",
-            "hexo",
-            "windows",
-            "计算机"
+            "生活",
+            "笔记"
         ],
         "update_time": 1654927381998,
         "url": "https://www.feizhuqwq.com/"
@@ -30823,7 +30827,10 @@
         "sign": "",
         "sitemap": "https://jieran233.github.io/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "系统"
+        ],
         "update_time": 1654933314568,
         "url": "https://jieran233.github.io/"
     },
@@ -30865,7 +30872,7 @@
         "status": "unknown",
         "tags": [
             "生活",
-            "随笔",
+            "记录",
             "游戏"
         ],
         "update_time": 1655605117566,
@@ -30909,7 +30916,7 @@
         "status": "unknown",
         "tags": [
             "生活",
-            "随笔"
+            "记录"
         ],
         "update_time": 1655605492200,
         "url": "https://lonelyuan.github.io/"
