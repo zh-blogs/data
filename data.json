@@ -1934,6 +1934,7 @@
         "status": "OK",
         "tags": [
             "生活",
+            "摄影",
             "随笔"
         ],
         "update_time": 1651600790154,
@@ -1954,9 +1955,8 @@
         "sitemap": "http://blog.dngz.net/sitemap.xml",
         "status": "OK",
         "tags": [
-            "路由器",
             "生活",
-            "记事"
+            "记录"
         ],
         "update_time": 1651600790154,
         "url": "http://blog.dngz.net/"
