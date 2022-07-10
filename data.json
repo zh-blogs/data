@@ -25078,9 +25078,9 @@
         "url": "https://www.congcong.us"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
-        "feed": "http://elmagnifico.tech/feed.xml",
+        "feed": "https://elmagnifico.tech/feed.xml",
         "id": "7de8aaa4-895d-4ef4-84b7-841c6bdb72e9",
         "idx": 1336,
         "join_time": 1651600790154,
@@ -25093,7 +25093,7 @@
         "status": "OK",
         "tags": [],
         "update_time": 1651600790154,
-        "url": "http://elmagnifico.tech"
+        "url": "https://elmagnifico.tech/"
     },
     {
         "arch": "Hugo",
@@ -25115,7 +25115,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://bninecoding.com/atom.xml",
         "id": "fcdcc376-6fab-4d13-861c-9eec37231134",
         "idx": 1338,
@@ -25186,7 +25186,7 @@
         "url": "https://zahui.fan"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://conge.github.io/feed.xml",
         "id": "89f22c84-18b2-450f-9c20-ef669dfb4b30",
@@ -25205,7 +25205,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://mctg.ink/index.php/feed",
         "id": "1d84c55a-44bb-4d40-96f4-4c5ebba23272",
         "idx": 1343,
@@ -25222,7 +25222,7 @@
         "url": "https://mctg.ink"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://blog.zhangda.xyz/feed/",
         "id": "5f8aaedb-e710-4fa1-b486-43ce04623ed4",
@@ -25313,7 +25313,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "https://jdqiong.cn/rss.xml",
         "id": "eb7e2840-ff8a-43f1-b899-89bbc24e64b5",
         "idx": 1349,
@@ -25330,13 +25330,13 @@
         "url": "https://jdqiong.cn/"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://frangezone.github.io/feed.xml",
         "id": "3c4dde4d-10e4-4710-8f43-f1e62b56f381",
         "idx": 1350,
         "join_time": 1651600790154,
-        "name": "Frange Zone｜Xu's Blog",
+        "name": "Frange Zone Xu's Blog",
         "recommend": false,
         "repeat": false,
         "saveweb_id": "",
@@ -25456,7 +25456,7 @@
         "url": "https://www.edony.ink/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://hujingnb.com/feed",
         "id": "ea3beb59-b9ce-48e4-a57c-88a5ccd18bbc",
@@ -25492,7 +25492,7 @@
         "url": "https://blog.spacetimee.xyz"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://jieran233.gitee.io/feed.xml",
         "id": "b99d5769-e580-4e3e-98c2-a761012945ee",
@@ -25528,7 +25528,7 @@
         "url": "https://xingyuanjie.top"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://shiina18.github.io/atom.xml",
         "id": "d5ccaa3b-0f1b-4c86-a0ae-dd4d492def58",
@@ -25603,7 +25603,7 @@
         "url": "https://www.vieg.net/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://x1v.cn/feed",
         "id": "ea563256-c640-40f8-b856-de1d9d67eb24",
@@ -25697,7 +25697,7 @@
         "url": "https://www.vvhan.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://zhangxue.name/feed/",
         "id": "78cfce6c-a580-4557-95e9-908bffcf85b0",
@@ -25733,7 +25733,7 @@
         "url": "http://www.hdgogogo.com/"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "",
         "id": "f0c864db-40bd-43a6-9767-00c42ae3e9d2",
@@ -25827,7 +25827,7 @@
         "url": "https://dpii.club/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://blog.luoyee.cn/feed",
         "id": "2e049e90-9529-48b3-9e9f-1244d10ebda2",
@@ -25845,7 +25845,7 @@
         "url": "https://blog.luoyee.cn/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": null,
         "id": "4694c2ab-9143-4a97-8950-8dc41ae0a915",
@@ -25863,7 +25863,7 @@
         "url": "https://5ipk.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://blog.jiawei.xin/?feed=rss2",
         "id": "941be543-f61c-473c-b3bc-83739d46858e",
@@ -25899,7 +25899,7 @@
         "url": "https://www.lllomh.com/"
     },
     {
-        "arch": "",
+        "arch": "Django",
         "enabled": true,
         "feed": "https://blog.tldr.plus/feed/",
         "id": "64d3647a-19da-4c54-974e-1b6c9bdd8972",
@@ -25917,7 +25917,7 @@
         "url": "https://blog.tldr.plus/"
     },
     {
-        "arch": "",
+        "arch": "Halo",
         "enabled": true,
         "feed": "https://lymtics.top/feed",
         "id": "ac001ce5-88eb-447f-ac87-6f5105a8d6b8",
@@ -25953,7 +25953,7 @@
         "url": "http://gojira.net/"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": "https://leay.net/feed.xml",
         "id": "cddccb8d-e7dd-464f-baa3-82cc8498ac4d",
@@ -26025,7 +26025,7 @@
         "url": "https://blog.v2snk.top/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "http://cppdebug.com/feed",
         "id": "876dc196-7f90-49af-9aea-fdb70e7e67d2",
@@ -26043,7 +26043,7 @@
         "url": "http://www.cppdebug.com/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://jiangjizhong.com/feed/",
         "id": "bc887086-3b94-47c1-8161-80681f27193e",
@@ -26061,7 +26061,7 @@
         "url": "https://jiangjizhong.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://tdeh.top/feed/",
         "id": "ffdc283d-636f-473f-8891-486358e167a0",
@@ -26194,7 +26194,7 @@
         "url": "https://xinwei.life/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.mooyea.cn/feed",
         "id": "45042d5e-3bac-4155-ae23-6a4814612630",
@@ -26212,7 +26212,7 @@
         "url": "https://www.mooyea.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://ahdark.com/feed",
         "id": "4ed6e1ea-0e9b-45c6-b1bf-c7f4dbbf3eb8",
@@ -26230,7 +26230,7 @@
         "url": "https://ahdark.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.wri.cc/feed",
         "id": "576b75d3-a004-4cf0-a67e-24cab80a42f1",
@@ -26266,7 +26266,7 @@
         "url": "https://dangeer.com/"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "https://gwyxjtu.github.io/atom.xml",
         "id": "20af5acf-be31-4841-8d6a-e0657ec1c627",
@@ -26392,7 +26392,7 @@
         "url": "http://www.puncsky.com/"
     },
     {
-        "arch": "",
+        "arch": "Octopress",
         "enabled": true,
         "feed": "https://chenyufei.info/atom.xml",
         "id": "05ed1e83-6f9a-4887-b72b-0c196347c759",
@@ -26432,7 +26432,7 @@
         "url": "http://taresky.com/"
     },
     {
-        "arch": "",
+        "arch": "Gridea",
         "enabled": true,
         "feed": "http://blog.callmewhy.com/atom.xml",
         "id": "d0048de5-e559-4f00-9e23-67ed82cf9457",
@@ -26567,7 +26567,7 @@
         "url": "https://www.cikian.cn"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "http://liujinkai.com/atom.xml",
         "id": "cf5c4f6c-741b-42d2-b9e0-d506c0d63e4c",
@@ -26680,7 +26680,7 @@
         "url": "https://fsacg.cn/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": null,
         "id": "4c9ced29-12a3-433d-9233-a2c6bca23656",
@@ -26824,7 +26824,7 @@
         "url": "https://xptt.com/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://xsinger.me/feed/",
         "id": "255e542d-cb61-42eb-9278-218306db0295",
@@ -26860,7 +26860,7 @@
         "url": "https://www.colinjiang.com/"
     },
     {
-        "arch": "",
+        "arch": "Jekyll",
         "enabled": true,
         "feed": null,
         "id": "05d0efb3-7b6e-4461-b12d-0a7fa87811ff",
