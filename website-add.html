@@ -2,6 +2,7 @@
 <html lang="zh">
     <head>
         <title>网站添加工具</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script>
             function shengcheng() {
                 var name = document.getElementById("name").value;
@@ -34,7 +35,7 @@
         "name": "${name}",
         "recommend": false,
         "repeat": false,
-        "saveweb_id": "null",
+        "saveweb_id": "",
         "sign": "",
         "sitemap": "${sitemap}",
         "status": "OK",
@@ -55,7 +56,6 @@
             <input type="text" id="feed" placeholder="订阅地址"><br>
             <input type="text" id="sitemap" placeholder="网站地图"><br>
             <input type="text" id="arch" placeholder="网站架构"><br>
-            <input type="text" id="uuid" placeholder="uuid"><br>
             <input type="text" id="idx" placeholder="idx"><br>
             <button onmouseover="shengcheng()">生成 JSON</button><br>
         </p>
