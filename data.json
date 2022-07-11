@@ -31207,7 +31207,9 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "随笔",
+            "记录"
         ],
         "update_time": 1657505185605,
         "url": "https://yang99.fun/"
@@ -31227,7 +31229,9 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "随笔",
+            "家人"
         ],
         "update_time": 1657505311921,
         "url": "https://iliu.org/"
@@ -31247,7 +31251,9 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "学习",
+            "分享"
         ],
         "update_time": 1657505368788,
         "url": "https://reinness.com/"
@@ -31267,7 +31273,9 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "综合",
+            "随笔",
+            "分享"
         ],
         "update_time": 1657505527872,
         "url": "https://laozhang.org/"
@@ -31287,7 +31295,8 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "短录"
         ],
         "update_time": 1657505577922,
         "url": "https://zhangjet.com/"
@@ -31307,7 +31316,10 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "综合",
+            "学习",
+            "记录"
         ],
         "update_time": 1657505623472,
         "url": "https://life97.top/"
@@ -31327,7 +31339,8 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "分享"
         ],
         "update_time": 1657505688140,
         "url": "https://zzz.moe/"
@@ -31347,7 +31360,8 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "综合"
         ],
         "update_time": 1657505725056,
         "url": "https://www.xdull.cn/"
@@ -31367,7 +31381,10 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "学习",
+            "前端",
+            "数据库"
         ],
         "update_time": 1657505818306,
         "url": "http://blog.meta-code.top/"
@@ -31387,13 +31404,15 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "综合",
+            "教程",
+            "短录"
         ],
         "update_time": 1657505891008,
         "url": "https://blog.aaayun.cc/"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "",
         "id": "00b68a93-3729-40c1-8e33-0773779dba82",
@@ -31407,7 +31426,9 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "Java",
+            "记录"
         ],
         "update_time": 1657505937040,
         "url": "https://zguishen.com/"
@@ -31427,7 +31448,9 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "学习",
+            "算法"
         ],
         "update_time": 1657506000589,
         "url": "https://tianwen42.top/"
@@ -31447,7 +31470,10 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "随笔",
+            "学习",
+            "记录"
         ],
         "update_time": 1657506063440,
         "url": "http://dxfblog.com/"
@@ -31467,7 +31493,10 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "记录",
+            "随笔",
+            "学习"
         ],
         "update_time": 1657506099389,
         "url": "https://zzzing.cn/"
@@ -31487,7 +31516,10 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "知识",
+            "学习",
+            "分享",
+            "记录"
         ],
         "update_time": 1657506158073,
         "url": "https://site.fygod.xyz/"
@@ -31507,7 +31539,10 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "分享",
+            "记录",
+            "随笔"
         ],
         "update_time": 1657506200257,
         "url": "http://nobb.cc/"
@@ -31527,7 +31562,9 @@
         "sitemap": "",
         "status": "OK",
         "tags": [
-            ""
+            "技术",
+            "记录",
+            "随笔"
         ],
         "update_time": 1657506284242,
         "url": "https://echol.cn/"
@@ -31547,7 +31584,10 @@
         "sitemap": "https://lhcy.org/sitemap.xml",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "随笔",
+            "思考",
+            "记录"
         ],
         "update_time": 1657507461093,
         "url": "https://lhcy.org/"
@@ -31567,7 +31607,8 @@
         "sitemap": "https://blog.awumiao.cn/wp-sitemap.xml",
         "status": "OK",
         "tags": [
-            ""
+            "生活",
+            "随笔"
         ],
         "update_time": 1657507527009,
         "url": "https://blog.awumiao.cn/"
