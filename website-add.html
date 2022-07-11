@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <title>网站添加工具</title>
+        <script>
+            function shengcheng() {
+                var name = document.getElementById("name").value;
+                var url = document.getElementById("url").value;
+                var feed = document.getElementById("feed").value;
+                var sitemap = document.getElementById("sitemap").value;
+                var arch = document.getElementById("arch").value;
+                var uuid = document.getElementById("uuid").value;
+                var idx = document.getElementById("idx").value;
+                var time = Date.now();
+                var echo = `{
+        "arch": "${arch}",
+        "enabled": true,
+        "feed": "${feed}",
+        "id": "${uuid}",
+        "idx": ${idx},
+        "join_time": ${time},
+        "name": "${name}",
+        "recommend": false,
+        "repeat": false,
+        "saveweb_id": "null",
+        "sign": "",
+        "sitemap": "${sitemap}",
+        "status": "OK",
+        "tags": [
+            "PHP"
+        ],
+        "update_time": ${time},
+        "url": "${url}"
+    },`
+    document.getElementById("echo").innerHTML = echo;
+             }
+        </script>
+    </head>
+    <body>
+        <p>
+            <input id="name" type="text" placeholder="网站名称"><br>
+            <input type="text" id="url" placeholder="网站地址"><br>
+            <input type="text" id="feed" placeholder="订阅地址"><br>
+            <input type="text" id="sitemap" placeholder="网站地图"><br>
+            <input type="text" id="arch" placeholder="网站架构"><br>
+            <input type="text" id="uuid" placeholder="uuid"><br>
+            <input type="text" id="idx" placeholder="idx"><br>
+            <button class="btn btn-default" onmouseover="shengcheng()">生成 JSON</button><br>
+        </p>
+        <p id="echo"></p>
+    </body>
+</html>
