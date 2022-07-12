@@ -30023,7 +30023,10 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "后端"
+        ],
         "update_time": 1653114797188,
         "url": "https://www.bestlang.cn/"
     },
@@ -30041,7 +30044,11 @@
         "sign": "一家分享技术与生活的网站",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "短录",
+            "分享"
+        ],
         "update_time": 1653114800171,
         "url": "https://blog.hce-space.top/"
     },
@@ -30059,7 +30066,11 @@
         "sign": "足踏不是山，仰首又一巅",
         "sitemap": "https://blog.ysboke.cn/wp-sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "后端",
+            "学习"
+        ],
         "update_time": 1653114802920,
         "url": "https://blog.ysboke.cn/"
     },
@@ -30077,7 +30088,10 @@
         "sign": "",
         "sitemap": "https://hesifan.top/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "随笔"
+        ],
         "update_time": 1653114806863,
         "url": "https://hesifan.top/"
     },
@@ -30095,7 +30109,12 @@
         "sign": "",
         "sitemap": "https://bestzuo.cn/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "综合",
+            "随笔",
+            "Java",
+            "记录"
+        ],
         "update_time": 1653114553971,
         "url": "https://bestzuo.cn/"
     },
@@ -30113,7 +30132,10 @@
         "sign": "",
         "sitemap": "",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "短录"
+        ],
         "update_time": 1653114558534,
         "url": "https://www.iinorii.com/"
     },
@@ -30131,7 +30153,10 @@
         "sign": "",
         "sitemap": "https://dp2px.com/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "雨露均沾"
+        ],
         "update_time": 1653114562563,
         "url": "https://dp2px.com/"
     },
@@ -30149,7 +30174,11 @@
         "sign": "",
         "sitemap": "https://www.yuanqiao.pw/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "前端",
+            "美文"
+        ],
         "update_time": 1653114566958,
         "url": "https://www.yuanqiao.pw/"
     },
@@ -30167,7 +30196,11 @@
         "sign": "",
         "sitemap": "https://www.idreamyou.cn/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "系统",
+            "Java"
+        ],
         "update_time": 1653114571430,
         "url": "https://www.idreamyou.cn/"
     },
@@ -30185,7 +30218,12 @@
         "sign": "JAVA技术学习记录,文章分享,SpringBoot博客搭建。",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "后端",
+            "算法",
+            "Java"
+        ],
         "update_time": 1653114580445,
         "url": "https://vino.run/"
     },
@@ -30203,7 +30241,9 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "文章较少"
+        ],
         "update_time": 1653114583898,
         "url": "https://xn--ehqz9kbvaa.wang/"
     },
@@ -30222,8 +30262,9 @@
         "sitemap": "https://www.gtneo.com/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "随笔",
-            "生活"
+            "整合",
+            "音乐",
+            "分享"
         ],
         "update_time": 1653114586902,
         "url": "https://www.gtneo.com/"
@@ -30242,7 +30283,11 @@
         "sign": "",
         "sitemap": "http://rushihu.com/wp-sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "随笔",
+            "摄影"
+        ],
         "update_time": 1653135104420,
         "url": "http://rushihu.com/"
     },
@@ -30261,9 +30306,9 @@
         "sitemap": "https://www.wunote.cn/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "python",
-            "php",
-            "生活"
+            "生活",
+            "短录",
+            "分享"
         ],
         "update_time": 1653148044708,
         "url": "https://www.wunote.cn"
@@ -30283,7 +30328,9 @@
         "sitemap": "http://www.paloinino.com/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "博客"
+            "生活",
+            "随笔",
+            "分享"
         ],
         "update_time": 1653372110230,
         "url": "http://www.paloinino.com"
@@ -30302,7 +30349,11 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "算法",
+            "学习"
+        ],
         "update_time": 1653734352626,
         "url": "https://wyxogo.top/"
     },
@@ -30320,7 +30371,10 @@
         "sign": "",
         "sitemap": "https://nicejf.cn/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "随笔"
+        ],
         "update_time": 1653734625784,
         "url": "https://nicejf.cn/"
     },
@@ -30338,7 +30392,10 @@
         "sign": "一个00后程序爱好者",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "短录"
+        ],
         "update_time": 1653977380811,
         "url": "https://blog.eirds.cn/"
     },
@@ -30356,7 +30413,11 @@
         "sign": "愿有前尘可奔赴 亦有岁月共回首",
         "sitemap": "https://www.nonedata.com/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "算法",
+            "分享"
+        ],
         "update_time": 1653977461242,
         "url": "https://www.nonedata.com/"
     },
@@ -30374,7 +30435,10 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "随笔"
+        ],
         "update_time": 1653977473340,
         "url": "http://www.informal.top/"
     },
@@ -30393,8 +30457,7 @@
         "sitemap": null,
         "status": "unknown",
         "tags": [
-            "随笔",
-            "易语言"
+            "文章较少"
         ],
         "update_time": 1653946479774,
         "url": "https://blogchy.vercel.app/"
@@ -30414,9 +30477,9 @@
         "sitemap": "https://arcitcgn.cn/sitemap.xml",
         "status": "unknown",
         "tags": [
-            "typecho",
-            "博客",
-            "网站推荐"
+            "技术",
+            "分享"
+            
         ],
         "update_time": 1654328518728,
         "url": "https://arcitcgn.cn/"
@@ -30436,8 +30499,10 @@
         "sitemap": "https://joojen.com/sitemap.xml",
         "status": "unknown",
         "tags": [
+            "生活",
             "随笔",
-            "生活"
+            "分享",
+            "思考"
         ],
         "update_time": 1654328551331,
         "url": "https://joojen.com/"
@@ -30456,7 +30521,11 @@
         "sign": "",
         "sitemap": "https://blog.mojy.xyz/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "系统",
+            "学习"
+        ],
         "update_time": 1654384954716,
         "url": "https://blog.mojy.xyz/"
     },
@@ -30474,7 +30543,10 @@
         "sign": "凡心所向 素履以往 生如逆旅 一苇以航",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "随笔"
+        ],
         "update_time": 1654385065097,
         "url": "https://blog.awu.cool/"
     },
@@ -30492,7 +30564,10 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "随笔"
+        ],
         "update_time": 1654385374677,
         "url": "https://liupj.top/"
     },
@@ -30510,7 +30585,11 @@
         "sign": "",
         "sitemap": "https://www.data-era.cn/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "Python",
+            "分享"
+        ],
         "update_time": 1654385599610,
         "url": "https://www.data-era.cn/"
     },
@@ -30528,7 +30607,11 @@
         "sign": "",
         "sitemap": null,
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "生活",
+            "随笔",
+            "后端"
+        ],
         "update_time": 1654385725364,
         "url": "https://www.panshenlian.com/"
     },
@@ -30546,7 +30629,11 @@
         "sign": "",
         "sitemap": "https://kifuan.top/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "学习",
+            "短录"
+        ],
         "update_time": 1654385832639,
         "url": "https://kifuan.top/"
     },
@@ -30564,7 +30651,11 @@
         "sign": "",
         "sitemap": "https://blog.lsilencej.top/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "笔记",
+            "学习"
+        ],
         "update_time": 1654385943151,
         "url": "https://blog.lsilencej.top/"
     },
@@ -30582,7 +30673,11 @@
         "sign": "",
         "sitemap": "https://bqyang.top/sitemap.xml",
         "status": "unknown",
-        "tags": [],
+        "tags": [
+            "技术",
+            "后端",
+            "Go"
+        ],
         "update_time": 1654393550610,
         "url": "https://bqyang.top/"
     },
@@ -30688,7 +30783,7 @@
         "status": "unknown",
         "tags": [
             "生活",
-            "记录"
+            "随笔"
         ],
         "update_time": 1656472600488,
         "url": "https://allanware.github.io/zh/"
@@ -30791,7 +30886,7 @@
         "status": "unknown",
         "tags": [
             "生活",
-            "记录"
+            "短录"
         ],
         "update_time": 1654875697025,
         "url": "https://www.osgz.com/"
@@ -30876,7 +30971,7 @@
         "status": "unknown",
         "tags": [
             "生活",
-            "记录",
+            "短录",
             "游戏"
         ],
         "update_time": 1655605117566,
@@ -30920,7 +31015,7 @@
         "status": "unknown",
         "tags": [
             "生活",
-            "记录"
+            "随笔"
         ],
         "update_time": 1655605492200,
         "url": "https://lonelyuan.github.io/"
@@ -31099,7 +31194,7 @@
         "tags": [
             "生活",
             "游戏",
-            "记录"
+            "随笔"
         ],
         "update_time": 1656316310123,
         "url": "https://blog.yidaozhan.top/"
