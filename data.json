@@ -10641,7 +10641,7 @@
         "url": "https://scarecrow08.com/"
     },
     {
-        "arch": "",
+        "arch": "emlog",
         "enabled": true,
         "feed": "http://www.dushangself.site/emlog/rss.php",
         "id": "74e1b042-1bcb-44ee-a43f-bb42eeb21aab",
@@ -10659,9 +10659,9 @@
         "url": "http://www.dushangself.site/emlog/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
-        "feed": "http://www.dushangself.site/emlog/rss.php",
+        "feed": "https://blog.2broear.com/feed",
         "id": "fb3340c5-38da-4ed1-9e5f-10e6cbab6566",
         "idx": 538,
         "join_time": 1651600790154,
