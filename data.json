@@ -31613,7 +31613,7 @@
         "url": "http://www.pipiqiang.cn/"
     },
     {
-        "arch": "Wordpress",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://lhcy.org/feed",
         "id": "65c12f58-3587-45b3-b3e1-2838647a3a6c",
@@ -31627,8 +31627,8 @@
         "sitemap": "https://lhcy.org/sitemap.xml",
         "status": "OK",
         "tags": [
-            "工作",
             "生活",
+            "教师",
             "人生",
             "思考"
         ],
