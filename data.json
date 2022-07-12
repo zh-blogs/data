@@ -8616,7 +8616,7 @@
         "url": "https://www.mainblog.cn/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://dyedd.cn/feed/",
         "id": "8383b540-0a39-4986-9555-500f8028e110",
@@ -8638,7 +8638,7 @@
         "url": "https://dyedd.cn/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://wcnmb.cn/feed/",
         "id": "157a56da-3ae1-4095-a39f-64c49a737501",
@@ -8659,7 +8659,7 @@
         "url": "https://wcnmb.cn/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://www.imwzh.com/feed/",
         "id": "2fc2446d-921a-4135-9d4f-bb90257bd71f",
@@ -8811,7 +8811,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "http://qingchun.org/feed",
         "id": "be6cad65-ef62-49e4-bb29-422e2f11f294",
         "idx": 437,
@@ -8828,7 +8828,7 @@
         "url": "http://qingchun.org/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://myo.ink/feed",
         "id": "504eb3a4-9208-487e-ba6f-8ccdb9784240",
@@ -8846,7 +8846,7 @@
         "url": "https://myo.ink/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.lixuejiang.com/feed/",
         "id": "1d0ebe54-7435-44b1-9c98-bdd600d76642",
@@ -8868,7 +8868,7 @@
         "url": "https://www.lixuejiang.com"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://www.kiwiape.cn/feed/",
         "id": "45ff836a-e978-4d9b-b48f-0cd36184b9bc",
@@ -8976,7 +8976,7 @@
         "url": "https://blog.say521.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://yaoyedan.net/feed",
         "id": "77342689-eb6c-4cee-833f-64d529c6df97",
@@ -9012,7 +9012,7 @@
         "url": "https://blog.glumi.cn/"
     },
     {
-        "arch": "",
+        "arch": "PbootCMS",
         "enabled": true,
         "feed": null,
         "id": "076b9565-aff0-4301-9540-405e64155439",
@@ -9030,7 +9030,7 @@
         "url": "https://www.xjqyc.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "",
         "id": "3fdb56c1-ac4c-4fbd-8a59-5ec8f85b05ff",
@@ -9085,7 +9085,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": null,
         "id": "069f5f2b-2b49-45f1-a1db-18148e6f3844",
         "idx": 452,
@@ -9120,7 +9120,7 @@
         "url": "https://www.a2data.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.aikexi.com/feed",
         "id": "ddbdfd5c-cd2d-4af1-a742-7c3819b21b81",
@@ -9138,7 +9138,7 @@
         "url": "https://www.aikexi.com/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://www.wispx.cn/atom.xml",
         "id": "03ad33c9-c6f8-4674-811b-82f1477987c5",
@@ -9156,7 +9156,7 @@
         "url": "https://www.wispx.cn/"
     },
     {
-        "arch": "",
+        "arch": "ZBlog",
         "enabled": true,
         "feed": "https://www.arro.cn/feed.php",
         "id": "79819251-d556-4d37-920d-7a22685d713d",
@@ -9192,7 +9192,7 @@
         "url": "https://bestgu.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://qq52o.me/feed",
         "id": "46446eb7-82eb-413a-82c0-47f1be5006cf",
@@ -9246,7 +9246,7 @@
         "url": "https://laravelacademy.org/"
     },
     {
-        "arch": "",
+        "arch": "Laravel",
         "enabled": true,
         "feed": "",
         "id": "8508ab15-9437-4696-b570-59856d154c51",
@@ -9318,7 +9318,7 @@
         "url": "http://www.lanecn.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.javatt.com/feed",
         "id": "5390ae7b-49a2-4889-a9cf-42697a637b6c",
@@ -9372,7 +9372,7 @@
         "url": "https://wujunze.com/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": null,
         "id": "298b10d8-0d6b-46df-9103-b0175ddbdcf1",
@@ -9462,7 +9462,7 @@
         "url": "https://lulublog.cn/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": null,
         "id": "2b1c2e9b-17fd-46a4-8aa8-0d53c389bbcd",
