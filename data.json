@@ -31574,7 +31574,7 @@
         "enabled": true,
         "feed": "https://blog.awumiao.cn/feed",
         "id": "17968f51-3b17-459e-86ea-dcadf59fc1ea",
-        "idx": 1677,
+        "idx": 1676,
         "join_time": 1657507527009,
         "name": "啊呜喵",
         "recommend": false,
@@ -31595,7 +31595,7 @@
         "enabled": true,
         "feed": "",
         "id": "e5ceaead-91a1-4357-9b92-c22a02ed0de1",
-        "idx": 1678,
+        "idx": 1677,
         "join_time": 1657523935906,
         "name": "皮皮强",
         "recommend": false,
@@ -31611,13 +31611,13 @@
         ],
         "update_time": 1657523935906,
         "url": "http://www.pipiqiang.cn/"
-    }，
+    },
     {
         "arch": "Wordpress",
         "enabled": true,
         "feed": "https://lhcy.org/feed",
         "id": "65c12f58-3587-45b3-b3e1-2838647a3a6c",
-        "idx": 1676,
+        "idx": 1678,
         "join_time": 1657597640353,
         "name": "林海草原",
         "recommend": false,
@@ -31627,7 +31627,10 @@
         "sitemap": "https://lhcy.org/sitemap.xml",
         "status": "OK",
         "tags": [
-            ""
+            "工作",
+            "生活",
+            "人生",
+            "思考"
         ],
         "update_time": 1657597640353,
         "url": "https://lhcy.org"
