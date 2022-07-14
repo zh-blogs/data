@@ -7927,7 +7927,7 @@
         "url": "https://www.goozp.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.fuchen33.com/feed",
         "id": "af1220cb-767d-4b09-8313-d49d2202f2e4",
@@ -8078,7 +8078,7 @@
         "url": "https://www.aye.ink/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://daidr.me/feed",
         "id": "bb55f113-a8f1-46e1-a29c-6b1a792096a4",
@@ -8204,7 +8204,7 @@
         "url": "https://blog.luziyang.cn/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://blog.itliujia.cn/feed",
         "id": "ebdec277-eca7-408c-bce6-836cf1e433dd",
@@ -8267,7 +8267,7 @@
         "url": "https://www.ratodo.com/"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "https://www.cxmoe.com/atom.xml",
         "id": "bad1bc2c-9fcf-4b06-b321-4aaef3dd7c75",
@@ -8332,7 +8332,7 @@
         "url": "https://blog.huangyige.xyz/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.jackytong.com/feed",
         "id": "6f25f14d-4f5d-4bce-a783-79e4d7a79cd9",
@@ -8486,7 +8486,7 @@
         "url": "https://cat.dorcandy.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://wens.news/feed",
         "id": "015dcb95-d42e-4904-88d9-3f4da9f6b627",
@@ -8507,7 +8507,7 @@
         "url": "https://wens.news/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://www.xiaofm.cn/feed",
         "id": "64955d0e-1eee-4849-8bc0-683e897840f2",
@@ -8528,7 +8528,7 @@
         "url": "https://www.xiaofm.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.huihuanx.cn/?feed=rss2",
         "id": "0b8119db-832f-4a00-9ce1-8d68b5c929ea",
@@ -8571,9 +8571,9 @@
         "url": "https://blog.mitsuha.space/"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
-        "feed": null,
+        "feed": "https://main.rivalsa.net/s/blog/rss",
         "id": "dcdabc1e-a2c5-451b-9db1-b3d1b5e99468",
         "idx": 426,
         "join_time": 1651600790154,
@@ -8593,7 +8593,7 @@
         "url": "https://main.rivalsa.net/"
     },
     {
-        "arch": "",
+        "arch": "ZBlog",
         "enabled": true,
         "feed": "https://www.mainblog.cn/feed.php",
         "id": "b5d85229-868c-455a-987a-9b363847f6a3",
