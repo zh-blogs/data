@@ -6721,7 +6721,7 @@
         "url": "https://blog.arae.cc/"
     },
     {
-        "arch": "",
+        "arch": "emlog",
         "enabled": true,
         "feed": null,
         "id": "8cc9b9b4-5cb9-4d2a-b740-9bd8a5dd061f",
@@ -6739,7 +6739,7 @@
         "url": "https://www.mhcf.net/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.dujin.org/feed",
         "id": "c569ccf4-0ef6-45a8-9b70-0a66fc781e5a",
@@ -6757,7 +6757,7 @@
         "url": "https://www.dujin.org/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://d-d.design/?feed=rss2",
         "id": "7caf1638-7127-40f4-a76f-e4658a7ce607",
@@ -7027,7 +7027,7 @@
         "url": "https://www.cfanlost.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.bgbiji.com/feed",
         "id": "7637a1ed-46f9-4c82-8ea6-2fc9dc04e2db",
@@ -7153,7 +7153,7 @@
         "url": "https://www.vueweb.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.ziqingi.com/feed",
         "id": "54dc28d9-29eb-407f-b997-b7ccd0cc3a59",
@@ -7225,7 +7225,7 @@
         "url": "https://www.lijiayan.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://nine-lie.com/feed/",
         "id": "aefb2421-0f2e-40f3-b241-bbac3fd93f94",
@@ -7262,7 +7262,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": null,
         "id": "437b2a56-afe8-4a82-b62a-f81e9fa5bd0f",
         "idx": 359,
@@ -7351,7 +7351,7 @@
         "url": "https://www.lijinzhang.com/post/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "http://www.liusu.me/?feed=atom",
         "id": "d39eef81-bca8-460c-98a7-88774ddc765d",
@@ -7405,7 +7405,7 @@
         "url": "https://www.onyi.net/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "",
         "id": "6211012c-4a79-44c4-b1ce-5e216863b032",
@@ -7423,7 +7423,7 @@
         "url": "https://blog.junsangs.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://imzxh.cn/feed.xml",
         "id": "c8f62f41-ba1f-4ab7-b3d7-75ecab51af1c",
@@ -7441,7 +7441,7 @@
         "url": "https://imzxh.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.ahwgs.cn/feed/atom",
         "id": "e4081926-d225-4edf-adc9-4b135bdde264",
@@ -7477,7 +7477,7 @@
         "url": "https://gorpeln.cn/"
     },
     {
-        "arch": "",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "",
         "id": "ad89e898-5f31-41c6-8ba5-ed02bc5cc254",
@@ -7514,7 +7514,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": "",
         "id": "eb3df95d-aa3d-4a05-931e-bbe592d1596a",
         "idx": 373,
@@ -7585,7 +7585,7 @@
         "url": "https://www.ibadboy.net/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "http://tantingfang.cn/?feed=rss2",
         "id": "03038af2-2167-48e4-a2bc-fcc1152dc072",
@@ -7603,7 +7603,7 @@
         "url": "http://tantingfang.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "",
         "id": "d8c81b1e-ec53-489a-b01f-a4c27ad717e9",
@@ -7621,7 +7621,7 @@
         "url": "https://www.webersongao.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "",
         "id": "8d031db8-be4c-438d-9ff2-1f25549e8e21",
@@ -7657,7 +7657,7 @@
         "url": "https://itudo.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.syf.ink/feed",
         "id": "ded6115d-17c5-4535-87b6-17428b0628d8",
@@ -7711,7 +7711,7 @@
         "url": "https://onojyun.com/"
     },
     {
-        "arch": "hexo",
+        "arch": "Hexo",
         "enabled": true,
         "feed": "https://blog.xsot.cn/feed",
         "id": "7b129971-cb81-4ab2-918c-c799daa192a8",
@@ -7788,7 +7788,7 @@
         "url": "https://fmcf.cc/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://ooiii.com/feed/atom/",
         "id": "ba144b45-9717-41a1-bdac-2e7e8a4a6d60",
@@ -7807,7 +7807,7 @@
     },
     {
         "arch": "",
-        "enabled": true,
+        "enabled": false,
         "feed": null,
         "id": "46fb72cd-6aa6-4156-b858-f9b5167f1b92",
         "idx": 389,
@@ -7881,7 +7881,7 @@
         "url": "https://www.uyang.co/"
     },
     {
-        "arch": "",
+        "arch": "Bolo",
         "enabled": true,
         "feed": null,
         "id": "cc4446df-a679-43c6-90cd-cec9ed318531",
@@ -7903,7 +7903,7 @@
         "url": "https://www.hjljy.cn/"
     },
     {
-        "arch": "",
+        "arch": "Puti",
         "enabled": true,
         "feed": null,
         "id": "ec400530-4ba2-47b2-9e69-ae897e0fa0af",
