@@ -24655,24 +24655,6 @@
         "url": "http://7400.me/"
     },
     {
-        "arch": "",
-        "enabled": true,
-        "feed": "https://blog.vzchn.com/feed/",
-        "id": "87db36a1-5def-4e1a-a7cc-be19c80c54a9",
-        "idx": 1314,
-        "join_time": 1651600790154,
-        "name": "vzchnのBlog",
-        "recommend": false,
-        "repeat": false,
-        "saveweb_id": "",
-        "sign": "",
-        "sitemap": "https://blog.vzchn.com/wp-sitemap.xml",
-        "status": "OK",
-        "tags": [],
-        "update_time": 1651600790154,
-        "url": "https://blog.vzchn.com"
-    },
-    {
         "arch": "Hexo",
         "enabled": true,
         "feed": "https://hermine.in/atom.xml",
