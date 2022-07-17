@@ -10673,7 +10673,7 @@
         "url": "http://www.heblogs.cn/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": null,
         "id": "80452c15-e9bb-4a44-abc5-6caa5f72b2cb",
@@ -10691,7 +10691,7 @@
         "url": "https://www.qingqingblog.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.huxianbk.cn/feed/",
         "id": "a27c77b5-2e2d-4e72-b720-f0ea238c985d",
@@ -10727,7 +10727,7 @@
         "url": "https://blog.kamtao.com/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://blog.lipux.cn/feed/",
         "id": "069daea9-c706-4cc4-9a33-9d95414799b5",
@@ -10781,7 +10781,7 @@
         "url": "https://thecat.top/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://zhebk.cn/feed/",
         "id": "0be180c6-134e-4db0-884e-136878a9f72c",
@@ -10853,7 +10853,7 @@
         "url": "https://rawchen.com/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://twitter.krait.cn/feed/",
         "id": "930bc196-ec27-4463-b657-65db887abd49",
@@ -10925,7 +10925,7 @@
         "url": "https://xn--qpru0x.cn/"
     },
     {
-        "arch": "",
+        "arch": "Mix Space CMS",
         "enabled": true,
         "feed": "https://www.timochan.cn//feed",
         "id": "dbc80c87-6945-4af1-ba89-566168c9d00a",
@@ -10943,7 +10943,7 @@
         "url": "https://www.timochan.cn/"
     },
     {
-        "arch": "",
+        "arch": "Mix Space CMS",
         "enabled": true,
         "feed": "https://innei.ren//feed",
         "id": "6e20f3a8-bebd-45f2-a06c-c53523c62331",
@@ -10961,7 +10961,7 @@
         "url": "https://innei.ren/"
     },
     {
-        "arch": "",
+        "arch": "Mix Space CMS",
         "enabled": true,
         "feed": "https://blog.iucky.cn/feed/",
         "id": "a66d9cfe-76aa-457a-8444-2303d16f4fe4",
@@ -11033,7 +11033,7 @@
         "url": "https://t-t.live/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.zlprime.cn/feed",
         "id": "6888728e-fb33-4a13-b56a-aa88222c4099",
@@ -11051,7 +11051,7 @@
         "url": "https://www.zlprime.cn/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://blog.truimo.com/feed/",
         "id": "0eff48b7-6e82-4724-a236-448d0a9c446c",
@@ -11069,7 +11069,7 @@
         "url": "https://blog.truimo.com/"
     },
     {
-        "arch": "",
+        "arch": "emlog",
         "enabled": true,
         "feed": "https://moe.blog/rss.php",
         "id": "313adcd5-4a7f-490f-a935-4f79f3ee1777",
@@ -11195,7 +11195,7 @@
         "url": "https://www.usuuu.com/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.gymxbl.com/feed/",
         "id": "d93353e7-dc29-42ad-9415-ad7ad9725dc3",
@@ -11237,7 +11237,7 @@
         "url": "https://wanyijizi.com/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://www.gmcllp.cn/feed/",
         "id": "d5b85764-e90b-415b-8feb-2a20db75a99d",
@@ -11298,7 +11298,7 @@
         "url": "https://yejiangye.com/"
     },
     {
-        "arch": "",
+        "arch": "Typecho",
         "enabled": true,
         "feed": "https://www.xjisme.com/feed/",
         "id": "4564ef08-599d-401f-bd4d-fbcf3792fc5a",
@@ -11402,7 +11402,7 @@
         "url": "https://xjj.pub/"
     },
     {
-        "arch": "",
+        "arch": "WordPress",
         "enabled": true,
         "feed": "https://www.panyixiao.com/feed/",
         "id": "a7835596-3d7c-4591-8fd2-af4d841228ca",
@@ -20960,7 +20960,7 @@
         "url": "https://deepinvest.org/"
     },
     {
-        "arch": "",
+        "arch": "Hugo",
         "enabled": true,
         "feed": "https://cyrusyip.org/zh-cn/index.xml",
         "id": "16c0de83-a065-4af6-ab6d-367198a35962",
@@ -20975,7 +20975,7 @@
         "status": "OK",
         "tags": [],
         "update_time": 1654393617064,
-        "url": "https://cyrusyip.org/"
+        "url": "https://cyrusyip.org/zh-cn/"
     },
     {
         "arch": "WordPress",
@@ -21086,7 +21086,7 @@
         "url": "https://blog.adkimsm.asia"
     },
     {
-        "arch": "",
+        "arch": "other",
         "enabled": true,
         "feed": "https://www.leavesongs.com/feed/",
         "id": "e2a8ca65-47d6-4d27-847f-68128ca2ad89",
